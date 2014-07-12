@@ -4,14 +4,14 @@ Awesome HTML5
 A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python)
 
 ##Table of Contents
-- [Elements]()
-  - [Canvas]()
-  - [Media Elements]()
-  - [Forms]()
-- [Semantics]()
-- [Books]()
-- [Game development]()
-- [Other websites and resources]()
+- [Elements](#elements)
+  - [Canvas](#canvas)
+  - [Media Elements](#media-elements)
+  - [Forms](#forms)
+- [Semantics](#semantics)
+- [Books](#books)
+- [Game development](#game-development)
+- [Other websites and resources](#other-websites-and-resources)
 
 ##Elements
 
@@ -52,12 +52,15 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Game development
 * [Getting started with HTML5 Game Development from Mozilla Hacks](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
 * [Info, news and tutorials](http://www.html5gamedevelopment.com/)
-* JavaScript game engines
+* Opensource JavaScript game engines
   - [Pixi.js](https://github.com/GoodBoyDigital/pixi.js)
-  - []()
-  - []()
-  - []()
-  - []()
+  - [phaser](https://github.com/photonstorm/phaser)
+  - [MelonJS](https://github.com/melonjs/melonJS)
+  - [kiwi.js](https://github.com/gamelab/kiwi.js)
+  - [Crafty](https://github.com/craftyjs/Crafty)
+  - [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS)
+  - [cutjs](https://github.com/piqnt/cutjs)
+  - [cocos2d](https://github.com/cocos2d/cocos2d-html5)
 
 ##Other websites and resources
 * [HTML5 developmnte guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
