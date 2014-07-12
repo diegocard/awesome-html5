@@ -13,7 +13,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Shadow DOM](#shadow-dom)
   - [Data Binding](#data-binding)
   - [Web Components](#web-components)
-- [Client side storage](#local-storage-and-websql)
+- [Client side storage](#client-side-storage)
 - [Geolocation](#geolocation)
 - [Web Sockets](#web-sockets)
 - [Web Workers](#web-workers)
