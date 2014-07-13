@@ -22,7 +22,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 - [Books](#books)
 - [Game development](#game-development)
 - [Videos and Keynotes](#videos-and-keynotes)
-- [Other websites and resources](#other-websites-and-resources)
+- [Websites and resources](#websites-and-resources)
+  - [Websites](#websites)
+  - [Twitter](#twitter)
+- [Contributing](#contributing)
 
 ##Elements
 
@@ -122,6 +125,31 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Videos and Keynotes
 
-##Other websites and resources
-* [HTML5 developmnte guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+##Websites and resources
+
+###Websites
+
+* [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 * [Great website for news, tutorials and updates](http://www.html5rocks.com/en/)
+* [HTML5 Doctor](http://html5doctor.com/)
+* [HTML5 Gallery](http://html5gallery.com/)
+
+###Twitter
+
+* [@html5](https://twitter.com/html5)
+* [@html5rock](https://twitter.com/html5rock)
+* [@html5gallery](https://twitter.com/html5gallery)
+* [@html5doctor](https://twitter.com/html5doctor)
+* [@GameDevHTML5](https://twitter.com/GameDevHTML5)
+* [@mozhacks](https://twitter.com/mozhacks)
+* [@mozappsdev](https://twitter.com/mozappsdev)
+* [@googlechrome](https://twitter.com/googlechrome)
+
+## Other awesome lists
+
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [lists](https://github.com/jnv/lists)
+
+##Contributing
+
+Your contributions are always welcome!
