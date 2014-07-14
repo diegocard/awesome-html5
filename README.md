@@ -24,6 +24,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 - [Videos and Keynotes](#videos-and-keynotes)
 - [Websites and resources](#websites-and-resources)
   - [Websites](#websites)
+  - [Weekly news](#weekly-news)
   - [Twitter](#twitter)
 - [Contributing](#contributing)
 
@@ -107,10 +108,19 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Browser compatibility
 
+* [Can I use...](http://caniuse.com/)
+* [HTML5 test](http://beta.html5test.com/)
+* [HTML5 demos](http://html5demos.com/)
+
 ##Books
+
 * [Dive into HTML5](http://diveintohtml5.info/)
+* [HTML5: Up and Running](http://www.amazon.com/HTML5-Up-Running-Mark-Pilgrim/dp/0596806027)
+* [Using the HTML5 Filesystem API](http://shop.oreilly.com/product/0636920021360.do)
+* [HTML5 Game Development Insights](http://www.apress.com/9781430266976)
 
 ##Game development
+
 * [Getting started with HTML5 Game Development from Mozilla Hacks](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
 * [Info, news and tutorials](http://www.html5gamedevelopment.com/)
 * Opensource JavaScript game engines
@@ -125,6 +135,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Videos and Keynotes
 
+* [Polymer: declarative, encapsulated, reusable components](https://www.youtube.com/watch?v=DH1vTVkqCDQ)
+* [Making the mobile web fast, feature-rich, and beautiful](https://www.youtube.com/watch?v=EXjPsvwIDwU)
+* [Dart: HTML of the Future, Today!](https://www.youtube.com/watch?v=euCNWhs7ivQ)
+
 ##Websites and resources
 
 ###Websites
@@ -133,6 +147,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Great website for news, tutorials and updates](http://www.html5rocks.com/en/)
 * [HTML5 Doctor](http://html5doctor.com/)
 * [HTML5 Gallery](http://html5gallery.com/)
+
+###Weekly news
+
+* [HTML5 Weekly](http://html5weekly.com/)
+* [Open Web Platform Daily Digest](http://webplatformdaily.org/)
+* [Mozilla Hacks Weekly Articles](http://hacks.mozilla.org/category/mozilla-hacks-weekly)
+* [Responsive Design Newsletter](http://responsivedesignweekly.com/)
+* [Daily Nerd](http://dailynerd.nl/)
 
 ###Twitter
 
