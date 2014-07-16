@@ -135,6 +135,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Videos and Keynotes
 
+* [HTML5 Developer Conference](http://html5devconf.com/videos.html)
 * [Polymer: declarative, encapsulated, reusable components](https://www.youtube.com/watch?v=DH1vTVkqCDQ)
 * [Making the mobile web fast, feature-rich, and beautiful](https://www.youtube.com/watch?v=EXjPsvwIDwU)
 * [Dart: HTML of the Future, Today!](https://www.youtube.com/watch?v=euCNWhs7ivQ)
@@ -144,6 +145,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Websites
 
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+* [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
 * [Great website for news, tutorials and updates](http://www.html5rocks.com/en/)
 * [HTML5 Doctor](http://html5doctor.com/)
 * [HTML5 Gallery](http://html5gallery.com/)
