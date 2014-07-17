@@ -153,11 +153,13 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Websites
 
+* [HTML5 Rocks](http://www.html5rocks.com/)
+* [HTML5 Hub](http://html5hub.com/)
+* [HTML5 Gallery](http://html5gallery.com/)
+* [HTML5 Doctor](http://html5doctor.com/)
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 * [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
 * [Great website for news, tutorials and updates](http://www.html5rocks.com/en/)
-* [HTML5 Doctor](http://html5doctor.com/)
-* [HTML5 Gallery](http://html5gallery.com/)
 
 ###Weekly news
 
