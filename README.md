@@ -15,7 +15,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Web Components](#web-components)
 - [Client side storage](#client-side-storage)
 - [Geolocation](#geolocation)
-- [Web Sockets](#web-sockets)
+- [Communications and interoperability](#communications-and-interoperability)
+  - [Web Sockets](#web-sockets)
 - [Web Workers](#web-workers)
 - [WebGL](#webgl)
 - [Browser compatibility](#browser-compatibility)
@@ -93,10 +94,17 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Using Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
 * [HTML5 Apps: Positioning with Geolocation](http://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456)
 
-##Web Sockets
+##Communications and interoperability
+
+###Web Sockets
 
 * [Using WebWorkers](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance/Using_web_workers)
 * [Introducing Websockets](http://www.html5rocks.com/en/tutorials/websockets/basics/)
+
+###WebRTC
+
+* [WebRTC data channels tutorial](http://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
+* [WebRTC data channels from MDN](https://developer.mozilla.org/en-US/docs/Games/Techniques/WebRTC_data_channels)
 
 ##Web Workers
 
