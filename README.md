@@ -17,6 +17,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 - [Geolocation](#geolocation)
 - [Communications and interoperability](#communications-and-interoperability)
   - [Web Sockets](#web-sockets)
+  - [WebRTC](#webrtc)
 - [Web Workers](#web-workers)
 - [WebGL](#webgl)
 - [Browser compatibility](#browser-compatibility)
