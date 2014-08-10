@@ -15,6 +15,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Web Components](#web-components)
 - [Client side storage](#client-side-storage)
 - [Geolocation](#geolocation)
+- [Performance](#performance)
+- [Mobile](#mobile)
 - [Communications and interoperability](#communications-and-interoperability)
   - [Web Sockets](#web-sockets)
   - [WebRTC](#webrtc)
@@ -94,6 +96,29 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Using Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
 * [HTML5 Apps: Positioning with Geolocation](http://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456)
+
+##Performance
+
+* [Google developers best practices](https://developers.google.com/speed/docs/best-practices/rules_intro)
+* [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/)
+* [Tutorials from Google](https://developers.google.com/speed/articles/)
+* [Prefetching and prerendeding](https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d)
+* [Image compression](http://www.html5rocks.com/en/tutorials/speed/img-compression/)
+* [Text compression](http://www.html5rocks.com/en/tutorials/speed/txt-compression/)
+* [Resource timing spec](http://www.w3.org/TR/resource-timing/)
+
+## Mobile
+
+* [Field guide to web applications](http://www.html5rocks.com/webappfieldguide/toc/index/)
+* [Tutorial: developing a PhoneGap application](http://coenraets.org/blog/phonegap-tutorial/)
+* [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
+* [PhoneGap from Scratch](http://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
+* [Best practices for mobile web apps](http://www.html5rocks.com/en/tutorials/speed/quick/)
+* [Build mobile apps with Kendo UI](http://docs.telerik.com/kendo-ui/tutorials/build-apps-with-kendo-ui-mobile)
+* [HTML5 Vibration API](http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
+* [HTML5 Battery Status API](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
+* [HTML5 Network Information API](http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598)
+* [Sencha Touch tutorials](http://www.sencha.com/learn/touch)
 
 ##Communications and interoperability
 
