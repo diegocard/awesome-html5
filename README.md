@@ -4,10 +4,12 @@ Awesome HTML5
 A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python)
 
 ##Table of Contents
+- [Articles and standards](#articles-and-standards)
 - [Elements](#elements)
   - [Canvas](#canvas)
   - [Media Elements](#media-elements)
   - [Forms](#forms)
+  - [Time](#time)
 - [Semantics](#semantics)
 - [DOM management](#dom-management)
   - [Shadow DOM](#shadow-dom)
@@ -31,6 +33,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Weekly news](#weekly-news)
   - [Twitter](#twitter)
 - [Contributing](#contributing)
+
+##Articles and standards
+
+* [Differences bewtween HTML5 and HTML4 from W3C](http://www.w3.org/TR/html5-diff/)
 
 ##Elements
 
@@ -59,6 +65,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [HTML5 Form elements from W3Schools](http://www.w3schools.com/html/html5_form_elements.asp)
 * [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
+
+###Time
+
+* [Time element guide](http://www.sitepoint.com/html5-time-element-guide/)
 
 ##Semantics
 
