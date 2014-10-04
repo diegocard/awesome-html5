@@ -11,6 +11,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Forms](#forms)
   - [Time](#time)
 - [Semantics](#semantics)
+- [Accessibility](#accessibility)
 - [DOM management](#dom-management)
   - [Shadow DOM](#shadow-dom)
   - [Data Binding](#data-binding)
@@ -75,6 +76,12 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Semantic elements from W3Schools](http://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Sections and Outlines of an HTML5 from MDN Document](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
 * [HTML5 Semantics from Smashing Magazine](http://www.smashingmagazine.com/2011/11/18/html5-semantics/)
+
+##Accessibility
+
+* [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+* [Accessubility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
+* [Aria in HTML](http://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood)
 
 ##DOM Management
 
