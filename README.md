@@ -80,7 +80,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Accessibility
 
 * [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-* [Accessubility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
+* [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
 * [Aria in HTML](http://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood)
 
 ##DOM Management
