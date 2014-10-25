@@ -10,6 +10,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Media Elements](#media-elements)
   - [Forms](#forms)
   - [Time](#time)
+- [APIs](#apis)
+  - [Speech synthesis / voice recognition](#speech-synthesis)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
 - [DOM management](#dom-management)
@@ -71,6 +73,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Time element guide](http://www.sitepoint.com/html5-time-element-guide/)
 
+##APIs
+
+###Speech Synthesis
+
+* [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api)
+* [Another useful intro](http://shapeshed.com/html5-speech-recognition-api)
+* [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
+
 ##Semantics
 
 * [Semantic elements from W3Schools](http://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -119,6 +129,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Google developers best practices](https://developers.google.com/speed/docs/best-practices/rules_intro)
 * [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/)
 * [Tutorials from Google](https://developers.google.com/speed/articles/)
+* [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021)
 * [Prefetching and prerendeding](https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d)
 * [Image compression](http://www.html5rocks.com/en/tutorials/speed/img-compression/)
 * [Text compression](http://www.html5rocks.com/en/tutorials/speed/txt-compression/)
@@ -146,6 +157,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###WebRTC
 
+* [WebRTC made simple](http://blog.carbonfive.com/2014/10/16/webrtc-made-simple)
 * [WebRTC data channels tutorial](http://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
 * [WebRTC data channels from MDN](https://developer.mozilla.org/en-US/docs/Games/Techniques/WebRTC_data_channels)
 
@@ -160,6 +172,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Browser compatibility
 
 * [Can I use...](http://caniuse.com/)
+* [W3C quality tools](http://www.w3.org/QA/Tools/)
 * [HTML5 test](http://beta.html5test.com/)
 * [HTML5 demos](http://html5demos.com/)
 
