@@ -12,6 +12,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Time](#time)
 - [APIs](#apis)
   - [Speech synthesis / voice recognition](#speech-synthesis)
+  - [Geolocation](#geolocation)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
 - [DOM management](#dom-management)
@@ -19,7 +20,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Data Binding](#data-binding)
   - [Web Components](#web-components)
 - [Client side storage](#client-side-storage)
-- [Geolocation](#geolocation)
 - [Performance](#performance)
 - [Mobile](#mobile)
 - [Communications and interoperability](#communications-and-interoperability)
@@ -81,6 +81,11 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Another useful intro](http://shapeshed.com/html5-speech-recognition-api)
 * [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
 
+###Geolocation
+
+* [Using Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
+* [HTML5 Apps: Positioning with Geolocation](http://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456)
+
 ##Semantics
 
 * [Semantic elements from W3Schools](http://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -118,11 +123,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Client-Side Storage](http://www.html5rocks.com/en/tutorials/offline/storage/)
 * [Real-World Off-Line Data Storage](http://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063)
 * [Local storage tutorial](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Local_Storage)
-
-##Geolocation
-
-* [Using Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
-* [HTML5 Apps: Positioning with Geolocation](http://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456)
 
 ##Performance
 
