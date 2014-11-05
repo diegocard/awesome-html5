@@ -13,6 +13,9 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 - [APIs](#apis)
   - [Speech synthesis / voice recognition](#speech-synthesis)
   - [Geolocation](#geolocation)
+  - [Audio](#audio)
+  - [Cryptography](#cryptography)
+  - [File](#file)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
 - [DOM management](#dom-management)
@@ -85,6 +88,24 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Using Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
 * [HTML5 Apps: Positioning with Geolocation](http://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456)
+
+###Audio
+
+* [Getting started with the Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
+* [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
+* [Making a Guitar Tuner with HTML5](http://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
+
+###File
+
+* [Using files from web applications (MDN)](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
+* [File API Draft](http://dev.w3.org/2006/webapi/FileAPI/)
+* [File system API](http://www.w3.org/TR/file-system-api/)
+
+### Crypography
+
+* [Web Cryptography API draft](http://www.w3.org/TR/WebCryptoAPI/)
+* [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window.crypto)
+* [Cryptography next steps from W3C](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html)
 
 ##Semantics
 
