@@ -98,6 +98,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###File
 
 * [Using files from web applications (MDN)](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
+* [Reading local files in JavaScript](http://www.html5rocks.com/en/tutorials/file/dndfiles/)
 * [File API Draft](http://dev.w3.org/2006/webapi/FileAPI/)
 * [File system API](http://www.w3.org/TR/file-system-api/)
 
