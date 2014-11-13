@@ -159,6 +159,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Mobile
 
+* [Installable web apps](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 * [Field guide to web applications](http://www.html5rocks.com/webappfieldguide/toc/index/)
 * [Tutorial: developing a PhoneGap application](http://coenraets.org/blog/phonegap-tutorial/)
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
