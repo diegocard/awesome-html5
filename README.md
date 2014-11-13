@@ -210,6 +210,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Getting started with HTML5 Game Development from Mozilla Hacks](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
 * [Info, news and tutorials](http://www.html5gamedevelopment.com/)
+* [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
 * Opensource JavaScript game engines
   - [Pixi.js](https://github.com/GoodBoyDigital/pixi.js)
   - [phaser](https://github.com/photonstorm/phaser)
