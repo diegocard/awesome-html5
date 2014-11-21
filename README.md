@@ -10,12 +10,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Media Elements](#media-elements)
   - [Forms](#forms)
   - [Time](#time)
+  - [WebVTT](#webtt)
 - [APIs](#apis)
   - [Speech synthesis / voice recognition](#speech-synthesis)
   - [Geolocation](#geolocation)
   - [Audio](#audio)
   - [Cryptography](#cryptography)
   - [File](#file)
+  - [Frame timing](#frame-timing)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
 - [DOM management](#dom-management)
@@ -76,6 +78,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Time element guide](http://www.sitepoint.com/html5-time-element-guide/)
 
+###WebVTT
+
+* [First draft from W3C](http://www.w3.org/TR/2014/WD-webvtt1-20141113/)
+
 ##APIs
 
 ###Speech Synthesis
@@ -103,10 +109,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [File system API](http://www.w3.org/TR/file-system-api/)
 
 ### Crypography
-
+we
 * [Web Cryptography API draft](http://www.w3.org/TR/WebCryptoAPI/)
 * [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window.crypto)
 * [Cryptography next steps from W3C](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html)
+
+##Frame timing
+* [Video from google developers](https://www.youtube.com/watch?v=4zoC3eaa9z0)
+* [Draft from W3C](https://w3c.github.io/frame-timing/)
 
 ##Semantics
 
@@ -187,6 +197,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Web Workers
 
 * [Web Worker Basics](http://www.html5rocks.com/en/tutorials/workers/basics/)
+* [Service Workers](http://www.w3.org/TR/service-workers/)
 
 ##WebGL
 
