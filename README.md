@@ -18,6 +18,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Cryptography](#cryptography)
   - [File](#file)
   - [Frame timing](#frame-timing)
+  - [Web Manifest (Web Apps)](#web-manifest)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
 - [DOM management](#dom-management)
@@ -108,15 +109,23 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [File API Draft](http://dev.w3.org/2006/webapi/FileAPI/)
 * [File system API](http://www.w3.org/TR/file-system-api/)
 
-### Crypography
-we
+###Crypography
+
 * [Web Cryptography API draft](http://www.w3.org/TR/WebCryptoAPI/)
 * [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window.crypto)
 * [Cryptography next steps from W3C](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html)
 
-##Frame timing
+###Frame timing
+
 * [Video from google developers](https://www.youtube.com/watch?v=4zoC3eaa9z0)
 * [Draft from W3C](https://w3c.github.io/frame-timing/)
+
+###Web Manifest
+
+* [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
+* [App manifest in MDN](https://developer.mozilla.org/en/Apps/Build/Manifest)
+* [Manifest for web application from W3C](https://w3c.github.io/manifest/)
+* [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 
 ##Semantics
 
