@@ -89,6 +89,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api)
 * [Another useful intro](http://shapeshed.com/html5-speech-recognition-api)
+* [Experimenting with the Web Speech API](http://www.sitepoint.com/experimenting-web-speech-api/)
 * [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
 
 ###Geolocation
@@ -137,6 +138,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 * [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
+* [Web Accessibility Evaluation Tools List](http://www.w3.org/WAI/ER/tools/)
 * [Aria in HTML](http://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood)
 
 ##DOM Management
@@ -162,6 +164,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Client side storage
 
 * [Client-Side Storage](http://www.html5rocks.com/en/tutorials/offline/storage/)
+* [Introduction to IndexedDB](http://www.codemag.com/Article/1411041)
 * [Real-World Off-Line Data Storage](http://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063)
 * [Local storage tutorial](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Local_Storage)
 
@@ -214,6 +217,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Browser compatibility
 
+* [I want to use](http://www.iwanttouse.com/)
 * [Can I use...](http://caniuse.com/)
 * [W3C quality tools](http://www.w3.org/QA/Tools/)
 * [HTML5 test](http://beta.html5test.com/)
