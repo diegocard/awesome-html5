@@ -75,6 +75,11 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5 Form elements from W3Schools](http://www.w3schools.com/html/html5_form_elements.asp)
 * [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
 
+###Details
+
+* [Details element](http://html5doctor.com/the-details-and-summary-elements/)
+* [Details element polyfill](http://www.smashingmagazine.com/2014/11/28/complete-polyfill-html5-details-element)
+
 ###Time
 
 * [Time element guide](http://www.sitepoint.com/html5-time-element-guide/)
@@ -209,7 +214,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Web Workers
 
 * [Web Worker Basics](http://www.html5rocks.com/en/tutorials/workers/basics/)
-* [Service Workers](http://www.w3.org/TR/service-workers/)
+* [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+* [Service Workers from W3](http://www.w3.org/TR/service-workers/)
 
 ##WebGL
 
