@@ -115,7 +115,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [File API Draft](http://dev.w3.org/2006/webapi/FileAPI/)
 * [File system API](http://www.w3.org/TR/file-system-api/)
 
-###Crypography
+###Cryptography
 
 * [Web Cryptography API draft](http://www.w3.org/TR/WebCryptoAPI/)
 * [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window.crypto)
