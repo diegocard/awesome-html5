@@ -169,6 +169,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Client side storage
 
 * [Client-Side Storage](http://www.html5rocks.com/en/tutorials/offline/storage/)
+* [Offline Cookbook](http://jakearchibald.com/2014/offline-cookbook/)
 * [Introduction to IndexedDB](http://www.codemag.com/Article/1411041)
 * [Real-World Off-Line Data Storage](http://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063)
 * [Local storage tutorial](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Local_Storage)
