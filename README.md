@@ -11,6 +11,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Forms](#forms)
   - [Time](#time)
   - [WebVTT](#webtt)
+  - [HTML Imports](#html-imports)
 - [APIs](#apis)
   - [Speech synthesis / voice recognition](#speech-synthesis)
   - [Geolocation](#geolocation)
@@ -88,6 +89,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [First draft from W3C](http://www.w3.org/TR/2014/WD-webvtt1-20141113/)
 
+###HTML Imports
+
+* [Introduction to HTML imports](http://webcomponents.org/articles/introduction-to-html-imports)
+
 ##APIs
 
 ###Speech Synthesis
@@ -145,6 +150,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
 * [Web Accessibility Evaluation Tools List](http://www.w3.org/WAI/ER/tools/)
 * [Aria in HTML](http://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood)
+* [Accessible and Responsive HTML5 Video Player](https://ind.ie/about/blog/accessible-video-player/)
 
 ##DOM Management
 
