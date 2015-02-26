@@ -7,6 +7,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 - [Articles and standards](#articles-and-standards)
 - [Elements](#elements)
   - [Canvas](#canvas)
+  - [Sectioning](#sectioning)
   - [Media Elements](#media-elements)
   - [Forms](#forms)
   - [Time](#time)
@@ -56,6 +57,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial)
 * [Various Tutorials](http://www.html5canvastutorials.com/)
 * [Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
+
+###Sectioning
+
+* [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
 
 ###Media Elements
 
@@ -123,6 +128,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Cryptography
 
 * [Web Cryptography API draft](http://www.w3.org/TR/WebCryptoAPI/)
+* [Table of web cryptography support](https://diafygi.github.io/webcrypto-examples)
 * [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window.crypto)
 * [Cryptography next steps from W3C](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html)
 
@@ -148,6 +154,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 * [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
+* [Aural UI of the Elements of HTML](http://thepaciellogroup.github.io/AT-browser-tests)
 * [Web Accessibility Evaluation Tools List](http://www.w3.org/WAI/ER/tools/)
 * [Aria in HTML](http://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood)
 * [Accessible and Responsive HTML5 Video Player](https://ind.ie/about/blog/accessible-video-player/)
@@ -214,6 +221,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###WebRTC
 
+* [What is WebRTC and how does it work](http://www.innoarchitech.com/what-is-webrtc-and-how-does-it-work)
 * [WebRTC made simple](http://blog.carbonfive.com/2014/10/16/webrtc-made-simple)
 * [WebRTC data channels tutorial](http://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
 * [WebRTC data channels from MDN](https://developer.mozilla.org/en-US/docs/Games/Techniques/WebRTC_data_channels)
