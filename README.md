@@ -14,6 +14,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [WebVTT](#webtt)
   - [HTML Imports](#html-imports)
 - [APIs](#apis)
+  - [Push Notifications](#push-notifications)
   - [Speech synthesis / voice recognition](#speech-synthesis)
   - [Geolocation](#geolocation)
   - [Audio](#audio)
@@ -99,6 +100,12 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Introduction to HTML imports](http://webcomponents.org/articles/introduction-to-html-imports)
 
 ##APIs
+
+###Push Notifications
+
+* [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
+* [Push API W3C draft](http://w3c.github.io/push-api/)
+* [Notifications API](https://notifications.spec.whatwg.org/)
 
 ###Speech Synthesis
 
