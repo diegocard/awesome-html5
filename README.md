@@ -270,7 +270,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [kiwi.js](https://github.com/gamelab/kiwi.js)
   - [Crafty](https://github.com/craftyjs/Crafty)
   - [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS)
-  - [cutjs](https://github.com/piqnt/cutjs)
+  - [Stage.js](https://github.com/piqnt/stage.js)
   - [cocos2d](https://github.com/cocos2d/cocos2d-html5)
 
 ##Videos and Keynotes
