@@ -19,6 +19,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Geolocation](#geolocation)
   - [Audio](#audio)
   - [Cryptography](#cryptography)
+  - [Media capture](#media-capture)
   - [File](#file)
   - [Frame timing](#frame-timing)
   - [Web Manifest (Web Apps)](#web-manifest)
@@ -125,19 +126,24 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
 * [Making a Guitar Tuner with HTML5](http://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
 
-###File
-
-* [Using files from web applications (MDN)](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
-* [Reading local files in JavaScript](http://www.html5rocks.com/en/tutorials/file/dndfiles/)
-* [File API Draft](http://dev.w3.org/2006/webapi/FileAPI/)
-* [File system API](http://www.w3.org/TR/file-system-api/)
-
 ###Cryptography
 
 * [Web Cryptography API draft](http://www.w3.org/TR/WebCryptoAPI/)
 * [Table of web cryptography support](https://diafygi.github.io/webcrypto-examples)
 * [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window.crypto)
 * [Cryptography next steps from W3C](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html)
+
+### Media Capture
+
+* [Capturing Audio & Video in HTML5](http://www.html5rocks.com/es/tutorials/getusermedia/intro/)
+* [Using the media capture API](http://www.sitepoint.com/using-the-media-capture-api/)
+
+###File
+
+* [Using files from web applications (MDN)](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
+* [Reading local files in JavaScript](http://www.html5rocks.com/en/tutorials/file/dndfiles/)
+* [File API Draft](http://dev.w3.org/2006/webapi/FileAPI/)
+* [File system API](http://www.w3.org/TR/file-system-api/)
 
 ###Frame timing
 
