@@ -133,7 +133,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window.crypto)
 * [Cryptography next steps from W3C](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html)
 
-### Media Capture
+###Media Capture
 
 * [Capturing Audio & Video in HTML5](http://www.html5rocks.com/es/tutorials/getusermedia/intro/)
 * [Using the media capture API](http://www.sitepoint.com/using-the-media-capture-api/)
@@ -222,6 +222,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Build mobile apps with Kendo UI](http://docs.telerik.com/kendo-ui/tutorials/build-apps-with-kendo-ui-mobile)
 * [HTML5 Vibration API](http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
 * [HTML5 Battery Status API](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
+* [Privacy analysis of the HTML5 Battery Status API](http://eprint.iacr.org/2015/616.pdf)
 * [HTML5 Network Information API](http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598)
 * [Sencha Touch tutorials](http://www.sencha.com/learn/touch)
 
@@ -244,6 +245,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Web Worker Basics](http://www.html5rocks.com/en/tutorials/workers/basics/)
 * [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 * [Service Workers from W3](http://www.w3.org/TR/service-workers/)
+* [How fast are web workers?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/)
 
 ##WebGL
 
