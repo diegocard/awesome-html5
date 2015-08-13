@@ -36,6 +36,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Web Sockets](#web-sockets)
   - [WebRTC](#webrtc)
 - [Web Workers](#web-workers)
+- [Service Workers](#service-workers)
 - [WebGL](#webgl)
 - [Browser compatibility](#browser-compatibility)
 - [Books](#books)
@@ -243,9 +244,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Web Workers
 
 * [Web Worker Basics](http://www.html5rocks.com/en/tutorials/workers/basics/)
+* [How fast are web workers?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/)
+* [Web Workers in MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+* [Getting started with Web Workers](http://code.tutsplus.com/tutorials/getting-started-with-web-workers--net-27667)
+
+##Service Workers
+
 * [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 * [Service Workers from W3](http://www.w3.org/TR/service-workers/)
-* [How fast are web workers?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/)
 
 ##WebGL
 
