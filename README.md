@@ -15,6 +15,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [HTML Imports](#html-imports)
 - [APIs](#apis)
   - [Push Notifications](#push-notifications)
+  - [Permissions](#permissions)
   - [Speech synthesis / voice recognition](#speech-synthesis)
   - [Geolocation](#geolocation)
   - [Audio](#audio)
@@ -109,6 +110,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
 * [Push API W3C draft](http://w3c.github.io/push-api/)
 * [Notifications API](https://notifications.spec.whatwg.org/)
+
+###Permissions
+
+* [Permissions API for the Web by Google](https://developers.google.com/web/updates/2015/04/permissions-api-for-the-web)
 
 ###Speech Synthesis
 
