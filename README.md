@@ -105,6 +105,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Push Notifications
 
+* [Push Notifications On The Web - Google Chrome](http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128)
 * [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
 * [Push API W3C draft](http://w3c.github.io/push-api/)
 * [Notifications API](https://notifications.spec.whatwg.org/)
