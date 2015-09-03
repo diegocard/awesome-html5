@@ -24,6 +24,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [File](#file)
   - [Frame timing](#frame-timing)
   - [Web Manifest (Web Apps)](#web-manifest)
+  - [requestIdleCallback](#requestIdleCalback)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
 - [DOM management](#dom-management)
@@ -163,6 +164,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [App manifest in MDN](https://developer.mozilla.org/en/Apps/Build/Manifest)
 * [Manifest for web application from W3C](https://w3c.github.io/manifest/)
 * [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
+
+###requestIdleCallback
+
+* [On Google developers](https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback)
 
 ##Semantics
 
