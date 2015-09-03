@@ -24,7 +24,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [File](#file)
   - [Frame timing](#frame-timing)
   - [Web Manifest (Web Apps)](#web-manifest)
-  - [requestIdleCallback](#requestIdleCalback)
+  - [requestIdleCallback](#requestidlecallback)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
 - [DOM management](#dom-management)
