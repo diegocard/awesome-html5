@@ -59,7 +59,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Canvas
 
 * [Brief description from W3 Schools](http://www.w3schools.com/tags/tag_canvas.asp)
-* [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial)
+* [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 * [Various Tutorials](http://www.html5canvastutorials.com/)
 * [Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
 
@@ -89,7 +89,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Details
 
 * [Details element](http://html5doctor.com/the-details-and-summary-elements/)
-* [Details element polyfill](http://www.smashingmagazine.com/2014/11/28/complete-polyfill-html5-details-element)
+* [Details element polyfill](http://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/)
 
 ###Time
 
@@ -101,7 +101,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###HTML Imports
 
-* [Introduction to HTML imports](http://webcomponents.org/articles/introduction-to-html-imports)
+* [Introduction to HTML imports](http://webcomponents.org/articles/introduction-to-html-imports/)
 
 ##APIs
 
@@ -118,8 +118,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Speech Synthesis
 
-* [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api)
-* [Another useful intro](http://shapeshed.com/html5-speech-recognition-api)
+* [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/)
+* [Another useful intro](http://shapeshed.com/html5-speech-recognition-api/)
 * [Experimenting with the Web Speech API](http://www.sitepoint.com/experimenting-web-speech-api/)
 * [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
 
@@ -137,8 +137,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Cryptography
 
 * [Web Cryptography API draft](http://www.w3.org/TR/WebCryptoAPI/)
-* [Table of web cryptography support](https://diafygi.github.io/webcrypto-examples)
-* [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window.crypto)
+* [Table of web cryptography support](http://diafygi.github.io/webcrypto-examples/)
+* [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto)
 * [Cryptography next steps from W3C](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html)
 
 ###Media Capture
@@ -150,7 +150,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Using files from web applications (MDN)](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
 * [Reading local files in JavaScript](http://www.html5rocks.com/en/tutorials/file/dndfiles/)
-* [File API Draft](http://dev.w3.org/2006/webapi/FileAPI/)
+* [File API Draft](https://w3c.github.io/FileAPI/)
 * [File system API](http://www.w3.org/TR/file-system-api/)
 
 ###Frame timing
@@ -167,21 +167,21 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###requestIdleCallback
 
-* [On Google developers](https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback)
+* [On Google developers](https://developers.google.com/web/updates/2015/08/using-requestidlecallback)
 
 ##Semantics
 
 * [Semantic elements from W3Schools](http://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Sections and Outlines of an HTML5 from MDN Document](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
-* [HTML5 Semantics from Smashing Magazine](http://www.smashingmagazine.com/2011/11/18/html5-semantics/)
+* [HTML5 Semantics from Smashing Magazine](http://www.smashingmagazine.com/2011/11/html5-semantics/)
 
 ##Accessibility
 
 * [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 * [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
-* [Aural UI of the Elements of HTML](http://thepaciellogroup.github.io/AT-browser-tests)
+* [Aural UI of the Elements of HTML](http://thepaciellogroup.github.io/AT-browser-tests/)
 * [Web Accessibility Evaluation Tools List](http://www.w3.org/WAI/ER/tools/)
-* [Aria in HTML](http://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood)
+* [Aria in HTML](https://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/)
 * [Accessible and Responsive HTML5 Video Player](https://ind.ie/about/blog/accessible-video-player/)
 
 ##DOM Management
@@ -207,17 +207,17 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Client side storage
 
 * [Client-Side Storage](http://www.html5rocks.com/en/tutorials/offline/storage/)
-* [Offline Cookbook](http://jakearchibald.com/2014/offline-cookbook/)
+* [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 * [Introduction to IndexedDB](http://www.codemag.com/Article/1411041)
 * [Real-World Off-Line Data Storage](http://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063)
 * [Local storage tutorial](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Local_Storage)
 
 ##Performance
 
-* [Google developers best practices](https://developers.google.com/speed/docs/best-practices/rules_intro)
+* [Google developers best practices](https://developers.google.com/speed/docs/insights/rules)
 * [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/)
 * [Tutorials from Google](https://developers.google.com/speed/articles/)
-* [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021)
+* [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021/)
 * [Prefetching and prerendeding](https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d)
 * [Image compression](http://www.html5rocks.com/en/tutorials/speed/img-compression/)
 * [Text compression](http://www.html5rocks.com/en/tutorials/speed/txt-compression/)
@@ -231,24 +231,24 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
 * [PhoneGap from Scratch](http://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
 * [Best practices for mobile web apps](http://www.html5rocks.com/en/tutorials/speed/quick/)
-* [Build mobile apps with Kendo UI](http://docs.telerik.com/kendo-ui/tutorials/build-apps-with-kendo-ui-mobile)
+* [Build mobile apps with Kendo UI](http://docs.telerik.com/kendo-ui/mobile/introduction)
 * [HTML5 Vibration API](http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
 * [HTML5 Battery Status API](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
 * [Privacy analysis of the HTML5 Battery Status API](http://eprint.iacr.org/2015/616.pdf)
 * [HTML5 Network Information API](http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598)
-* [Sencha Touch tutorials](http://www.sencha.com/learn/touch)
+* [Sencha Touch tutorials](http://docs.sencha.com)
 
 ##Communications and interoperability
 
 ###Web Sockets
 
-* [Using WebWorkers](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance/Using_web_workers)
+* [Using WebWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 * [Introducing Websockets](http://www.html5rocks.com/en/tutorials/websockets/basics/)
 
 ###WebRTC
 
 * [What is WebRTC and how does it work](http://www.innoarchitech.com/what-is-webrtc-and-how-does-it-work)
-* [WebRTC made simple](http://blog.carbonfive.com/2014/10/16/webrtc-made-simple)
+* [WebRTC made simple](http://blog.carbonfive.com/2014/10/16/webrtc-made-simple/)
 * [WebRTC data channels tutorial](http://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
 * [WebRTC data channels from MDN](https://developer.mozilla.org/en-US/docs/Games/Techniques/WebRTC_data_channels)
 
@@ -272,7 +272,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [I want to use](http://www.iwanttouse.com/)
 * [Can I use...](http://caniuse.com/)
-* [W3C quality tools](http://www.w3.org/QA/Tools/)
+* [W3C quality tools](http://w3c.github.io/developers/tools/)
 * [HTML5 test](http://beta.html5test.com/)
 * [HTML5 demos](http://html5demos.com/)
 
@@ -289,13 +289,13 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Info, news and tutorials](http://www.html5gamedevelopment.com/)
 * [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
 * Opensource JavaScript game engines
-  - [Pixi.js](https://github.com/GoodBoyDigital/pixi.js)
+  - [Pixi.js](https://github.com/pixijs/pixi.js)
   - [phaser](https://github.com/photonstorm/phaser)
   - [MelonJS](https://github.com/melonjs/melonJS)
   - [kiwi.js](https://github.com/gamelab/kiwi.js)
   - [Crafty](https://github.com/craftyjs/Crafty)
   - [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS)
-  - [Stage.js](https://github.com/piqnt/stage.js)
+  - [Stage.js](https://github.com/shakiba/stage.js)
   - [cocos2d](https://github.com/cocos2d/cocos2d-html5)
 
 ##Videos and Keynotes
@@ -320,7 +320,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [HTML5 Weekly](http://html5weekly.com/)
 * [Open Web Platform Daily Digest](http://webplatformdaily.org/)
-* [Mozilla Hacks Weekly Articles](http://hacks.mozilla.org/category/mozilla-hacks-weekly)
+* [Mozilla Hacks Weekly Articles](https://hacks.mozilla.org/category/mozilla-hacks-weekly/)
 * [Responsive Design Newsletter](http://responsivedesignweekly.com/)
 * [Daily Nerd](http://dailynerd.nl/)
 
