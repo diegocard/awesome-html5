@@ -53,6 +53,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Articles and standards
 
 * [Differences bewtween HTML5 and HTML4 from W3C](http://www.w3.org/TR/html5-diff/)
+* [DOCTYPES and markup styles from WPF](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)
 
 ##Elements
 
