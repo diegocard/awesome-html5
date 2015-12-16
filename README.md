@@ -310,6 +310,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Websites
 
+* [HTML official reference](http://docs.webplatform.org/wiki/html)(allows collaborative modification of content like wiki)
 * [HTML5 Rocks](http://www.html5rocks.com/) (news, tutorials and updates)
 * [HTML5 Hub](http://html5hub.com/) (developer community including articles, discussions and open projects)
 * [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)
