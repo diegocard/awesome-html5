@@ -325,7 +325,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Open Web Platform Daily Digest](http://webplatformdaily.org/)
 * [Mozilla Hacks Weekly Articles](https://hacks.mozilla.org/category/mozilla-hacks-weekly/)
 * [Responsive Design Newsletter](http://responsivedesignweekly.com/)
-* [Daily Nerd](http://dailynerd.nl/)
 
 ###Twitter
 
