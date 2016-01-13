@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list travis-ci.org,mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
+  - awesome_bot README.md --white-list html5rocks.com,travis-ci.org,mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
