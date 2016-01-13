@@ -89,7 +89,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Details
 
 * [Details element](http://html5doctor.com/the-details-and-summary-elements/)
-* [Details element polyfill](http://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/)
+* [Details element polyfill](https://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/)
 
 ###Time
 
@@ -173,7 +173,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Semantic elements from W3Schools](http://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Sections and Outlines of an HTML5 from MDN Document](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
-* [HTML5 Semantics from Smashing Magazine](http://www.smashingmagazine.com/2011/11/html5-semantics/)
+* [HTML5 Semantics from Smashing Magazine](https://www.smashingmagazine.com/2011/11/html5-semantics/)
 * [Lesser known semantics element from W3C & Opera](https://www.w3.org/wiki/Lesser_-_known_semantic_elements)
 
 ##Accessibility
@@ -232,7 +232,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
 * [PhoneGap from Scratch](http://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
 * [Best practices for mobile web apps](http://www.html5rocks.com/en/tutorials/speed/quick/)
-* [Build mobile apps with Kendo UI](http://docs.telerik.com/kendo-ui/mobile/introduction)
+* [Build mobile apps with Kendo UI](http://docs.telerik.com/KENDO-UI/controls/hybrid/introduction)
 * [HTML5 Vibration API](http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
 * [HTML5 Battery Status API](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
 * [Privacy analysis of the HTML5 Battery Status API](http://eprint.iacr.org/2015/616.pdf)
@@ -312,7 +312,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [HTML official reference](http://docs.webplatform.org/wiki/html)(allows collaborative modification of content like wiki)
 * [HTML5 Rocks](http://www.html5rocks.com/) (news, tutorials and updates)
-* [HTML5 Hub](http://html5hub.com/) (developer community including articles, discussions and open projects)
+* [HTML5 Hub](https://software.intel.com/en-us/html5/hub/highlights) (developer community including articles, discussions and open projects)
 * [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)
 * [HTML5 Doctor](http://html5doctor.com/) (tutorials and articles)
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
