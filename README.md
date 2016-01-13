@@ -217,7 +217,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Google developers best practices](https://developers.google.com/speed/docs/insights/rules)
 * [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/)
-* [Tutorials from Google](https://developers.google.com/speed/docs/insights/rules)
 * [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021/)
 * [Prefetching and prerendeding](https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d)
 * [Image compression](http://www.html5rocks.com/en/tutorials/speed/img-compression/)
