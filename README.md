@@ -175,6 +175,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Semantic elements from W3Schools](http://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Sections and Outlines of an HTML5 from MDN Document](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
 * [HTML5 Semantics from Smashing Magazine](http://www.smashingmagazine.com/2011/11/html5-semantics/)
+* [Lesser known semantics element from W3C & Opera](https://www.w3.org/wiki/Lesser_-_known_semantic_elements)
 
 ##Accessibility
 
