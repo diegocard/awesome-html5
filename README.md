@@ -247,7 +247,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###WebRTC
 
-* [What is WebRTC and how does it work](http://www.innoarchitech.com/what-is-webrtc-and-how-does-it-work)
+* [What is WebRTC and how does it work](http://www.innoarchitech.com/what-is-webrtc-and-how-does-it-work/)
 * [WebRTC made simple](http://blog.carbonfive.com/2014/10/16/webrtc-made-simple/)
 * [WebRTC data channels tutorial](http://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
 * [WebRTC data channels from MDN](https://developer.mozilla.org/en-US/docs/Games/Techniques/WebRTC_data_channels)
