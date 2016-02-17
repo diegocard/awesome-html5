@@ -261,6 +261,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Service Workers
 
+* [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
 * [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 * [Service Workers from W3](http://www.w3.org/TR/service-workers/)
 
