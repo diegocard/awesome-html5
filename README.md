@@ -217,6 +217,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Performance
 
+* [Accelerated Mobile Pages (AMP)](https://www.ampproject.org/docs/get_started/about-amp.html)
 * [Google developers best practices](https://developers.google.com/speed/docs/insights/rules)
 * [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/)
 * [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021/)
