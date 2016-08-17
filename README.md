@@ -163,7 +163,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Web Manifest
 
 * [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
-* [App manifest in MDN](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Manifest)
+* [App manifest in MDN](https://developer.mozilla.org/en-US/Apps/Fundamentals/Manifest)
 * [Manifest for web application from W3C](https://w3c.github.io/manifest/)
 * [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 
@@ -264,9 +264,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Service Workers
 
+* [The Service Worker Cookbook](https://serviceworke.rs/)
 * [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
 * [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+* [Service workers explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
+* [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
+* 
 * [Service Workers from W3](http://www.w3.org/TR/service-workers/)
+* [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 
 ##WebGL
 
