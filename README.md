@@ -163,8 +163,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Web Manifest
 
 * [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
-* [App manifest in MDN](https://developer.mozilla.org/en-US/Apps/Fundamentals/Manifest)
-* [Manifest for web application from W3C](https://w3c.github.io/manifest/)
+* [Manifest for web application from W3C (working draft)](https://w3c.github.io/manifest/)
 * [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 
 ###requestIdleCallback
@@ -228,7 +227,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Mobile
 
-* [Installable web apps](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
+* [Installable Web Apps with the Web App Manifest in Chrome for Android
+](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 * [Field guide to web applications](http://www.html5rocks.com/webappfieldguide/toc/index/)
 * [Tutorial: developing a PhoneGap application](http://coenraets.org/blog/phonegap-tutorial/)
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
