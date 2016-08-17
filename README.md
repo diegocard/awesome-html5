@@ -52,6 +52,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Articles and standards
 
+* [THML 5.2 Editor's Draft](http://w3c.github.io/html/)
+* [The extensible web manifesto](https://extensiblewebmanifesto.org/)
 * [Differences bewtween HTML5 and HTML4 from W3C](http://www.w3.org/TR/html5-diff/)
 * [DOCTYPES and markup styles from WPF](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)
 
