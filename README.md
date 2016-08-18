@@ -14,7 +14,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [WebVTT](#webtt)
   - [HTML Imports](#html-imports)
 - [APIs](#apis)
-  - [Push Notifications](#push-notifications)
   - [Permissions](#permissions)
   - [Speech synthesis / voice recognition](#speech-synthesis)
   - [Geolocation](#geolocation)
@@ -23,7 +22,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Media capture](#media-capture)
   - [File](#file)
   - [Frame timing](#frame-timing)
-  - [Web Manifest (Web Apps)](#web-manifest)
   - [requestIdleCallback](#requestidlecallback)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
@@ -31,6 +29,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Shadow DOM](#shadow-dom)
   - [Data Binding](#data-binding)
   - [Web Components](#web-components)
+- [Progressive web apps](#progressive-web-apps)
+  - [Offline caching](#offline-caching)
+  - [Service Workers](#service-workers)
+  - [Push Notifications](#push-notifications)
 - [Client side storage](#client-side-storage)
 - [Performance](#performance)
 - [Mobile](#mobile)
@@ -38,7 +40,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Web Sockets](#web-sockets)
   - [WebRTC](#webrtc)
 - [Web Workers](#web-workers)
-- [Service Workers](#service-workers)
 - [WebGL](#webgl)
 - [Browser compatibility](#browser-compatibility)
 - [Books](#books)
@@ -107,13 +108,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##APIs
 
-###Push Notifications
-
-* [Push Notifications On The Web - Google Chrome](http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128)
-* [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
-* [Push API W3C draft](http://w3c.github.io/push-api/)
-* [Notifications API](https://notifications.spec.whatwg.org/)
-
 ###Permissions
 
 * [Permissions API for the Web by Google](https://developers.google.com/web/updates/2015/04/permissions-api-for-the-web)
@@ -160,12 +154,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Video from google developers](https://www.youtube.com/watch?v=4zoC3eaa9z0)
 * [Draft from W3C](https://w3c.github.io/frame-timing/)
 
-###Web Manifest
-
-* [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
-* [Manifest for web application from W3C (working draft)](https://w3c.github.io/manifest/)
-* [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
-
 ###requestIdleCallback
 
 * [On Google developers](https://developers.google.com/web/updates/2015/08/using-requestidlecallback)
@@ -205,6 +193,32 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
 * [Polymer project](https://github.com/polymer)
 * [Building Webapps with Yeoman and Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
+
+##Progressive web apps
+
+###Service Workers
+
+* [The Service Worker Cookbook](https://serviceworke.rs/)
+* [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
+* [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+* [Service workers explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
+* [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
+* [Service Workers from W3](http://www.w3.org/TR/service-workers/)
+* [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
+
+###Offline caching
+
+* [Instant-loading Offline-first (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=qDJAz3IIq18)
+* [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
+* [Manifest for web application from W3C (working draft)](https://w3c.github.io/manifest/)
+* [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
+
+###Push Notifications
+
+* [Push Notifications On The Web - Google Chrome](http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128)
+* [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
+* [Push API W3C draft](http://w3c.github.io/push-api/)
+* [Notifications API](https://notifications.spec.whatwg.org/)
 
 ##Client side storage
 
@@ -261,17 +275,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [How fast are web workers?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/)
 * [Web Workers in MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 * [Getting started with Web Workers](http://code.tutsplus.com/tutorials/getting-started-with-web-workers--net-27667)
-
-##Service Workers
-
-* [The Service Worker Cookbook](https://serviceworke.rs/)
-* [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
-* [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
-* [Service workers explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
-* [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
-* 
-* [Service Workers from W3](http://www.w3.org/TR/service-workers/)
-* [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 
 ##WebGL
 
