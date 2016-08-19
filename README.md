@@ -91,7 +91,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Details
 
-* [Details element](http://html5doctor.com/the-details-and-summary-elements/)
+* [Details element](https://html5doctor.com/the-details-and-summary-elements/)
 * [Details element polyfill](https://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/)
 
 ###Time
@@ -196,7 +196,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Progressive web apps
 
-* [The Business Case for Progressive Web Apps](https://cloudfour.com/thinks/the-business-case-for-progressive-web-apps)
+* [The Business Case for Progressive Web Apps](https://cloudfour.com/thinks/the-business-case-for-progressive-web-apps/)
 
 ###Service Workers
 
@@ -328,7 +328,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5 Rocks](http://www.html5rocks.com/) (news, tutorials and updates)
 * [HTML5 Hub](https://software.intel.com/en-us/html5/hub/highlights) (developer community including articles, discussions and open projects)
 * [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)
-* [HTML5 Doctor](http://html5doctor.com/) (tutorials and articles)
+* [HTML5 Doctor](https://html5doctor.com/) (tutorials and articles)
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 * [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
 * [HTML5 Please](http://html5please.com/) (Know when HTML5 feature are ready to use)
