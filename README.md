@@ -196,6 +196,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ##Progressive web apps
 
+* [The Business Case for Progressive Web Apps](https://cloudfour.com/thinks/the-business-case-for-progressive-web-apps)
+
 ###Service Workers
 
 * [The Service Worker Cookbook](https://serviceworke.rs/)
