@@ -23,6 +23,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [File](#file)
   - [Frame timing](#frame-timing)
   - [requestIdleCallback](#requestidlecallback)
+  - [requestAnimationFrame](#requestAnimationFrame)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
 - [DOM management](#dom-management)
@@ -157,6 +158,11 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###requestIdleCallback
 
 * [On Google developers](https://developers.google.com/web/updates/2015/08/using-requestidlecallback)
+
+###requestAnimationFrame
+
+* [Using requestAnimationFrame (CSS Tricks)](https://css-tricks.com/using-requestanimationframe/)
+* [Great article by Paul Irish](https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4#.9gev5fdub)
 
 ##Semantics
 
