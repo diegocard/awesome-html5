@@ -184,10 +184,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Shadow DOM
 
-* [Intro to Shadow DOM](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966)
-* [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/?redirect_from_locale=es)
-* [Shadow DOM CSS and Styling](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/)
-* [Advanced Concepts & DOM APIs](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)
+* [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/primers/shadowdom)
+* [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 
 ###Data Binding
 
