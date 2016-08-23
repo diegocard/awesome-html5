@@ -184,7 +184,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Shadow DOM
 
-* [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/primers/shadowdom)
+* [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/primers/shadowdom/)
 * [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 
 ###Data Binding
@@ -207,7 +207,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [The Service Worker Cookbook](https://serviceworke.rs/)
 * [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
 * [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
-* [Service workers explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md)
+* [Service workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
 * [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
 * [Service Workers from W3](http://www.w3.org/TR/service-workers/)
 * [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
