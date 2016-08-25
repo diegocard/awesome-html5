@@ -24,6 +24,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Frame timing](#frame-timing)
   - [requestIdleCallback](#requestidlecallback)
   - [requestAnimationFrame](#requestanimationframe)
+  - [Web animations](#web-animations)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
 - [DOM management](#dom-management)
@@ -163,6 +164,11 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Using requestAnimationFrame (CSS Tricks)](https://css-tricks.com/using-requestanimationframe/)
 * [Great article by Paul Irish](https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4#.9gev5fdub)
+
+###Web animations
+
+* [Intro to web animations](http://danielcwilson.com/blog/2015/07/animations-intro/)
+* [When to Use the Web Animations API](http://danielcwilson.com/blog/2016/08/why-waapi/)
 
 ##Semantics
 
