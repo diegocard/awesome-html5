@@ -93,7 +93,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Details
 
-* [Details element](https://html5doctor.com/the-details-and-summary-elements/)
+* [How to Use the Details and Summary Elements](http://blog.teamtreehouse.com/use-details-summary-elements)
 * [Details element polyfill](https://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/)
 
 ###Time
@@ -199,7 +199,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Web Components
 
-* [Why web components are so important](https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a?gi=a99f806eadad)
 * [Custom elements v1: reusable web components](https://developers.google.com/web/fundamentals/primers/customelements/)
 * [Polymer project](https://github.com/polymer)
 * [A Quick Introduction To Polymer](http://webcomponents.org/articles/a-quick-polymer-introduction/)
