@@ -124,7 +124,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Geolocation
 
 * [Using Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
-* [HTML5 Apps: Positioning with Geolocation](http://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456)
+* [HTML5 Apps: Positioning with Geolocation](https://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456)
 
 ###Audio
 
@@ -199,12 +199,12 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Web Components
 
-* [Why web components are so important](https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a)
+* [Why web components are so important](https://medium.com/m/global-identity?redirectUrl=https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a)
 * [Custom elements v1: reusable web components](https://developers.google.com/web/fundamentals/primers/customelements/)
 * [Polymer project](https://github.com/polymer)
 * [A Quick Introduction To Polymer](http://webcomponents.org/articles/a-quick-polymer-introduction/)
 * [Building web components using Polymer and ES6 classes](https://www.polymer-project.org/1.0/blog/es6)
-* [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components)
+* [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
 * [HTML imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
 * [Building Webapps with Yeoman and Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
 
@@ -215,8 +215,9 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ###Service Workers
 
 * [The Service Worker Cookbook](https://serviceworke.rs/)
+* [Offline content with service workers](https://madebymike.com.au/writing/service-workers/)
+* [Great article on Service Workers](https://developers.google.com/web/fundamentals/primers/service-worker/)
 * [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
-* [Great article on Service Workers](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 * [Service workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
 * [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
 * [Service Workers from W3](http://www.w3.org/TR/service-workers/)
@@ -242,7 +243,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Client-Side Storage](http://www.html5rocks.com/en/tutorials/offline/storage/)
 * [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 * [Introduction to IndexedDB](http://www.codemag.com/Article/1411041)
-* [Real-World Off-Line Data Storage](http://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063)
+* [Real-World Off-Line Data Storage](https://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063)
 * [Local storage tutorial](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Local_Storage)
 
 ##Performance
@@ -263,13 +264,13 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Field guide to web applications](http://www.html5rocks.com/webappfieldguide/toc/index/)
 * [Tutorial: developing a PhoneGap application](http://coenraets.org/blog/phonegap-tutorial/)
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
-* [PhoneGap from Scratch](http://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
+* [PhoneGap from Scratch](https://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
 * [Best practices for mobile web apps](http://www.html5rocks.com/en/tutorials/speed/quick/)
 * [Build mobile apps with Kendo UI]http://docs.telerik.com/kendo-ui/controls/hybrid/introduction)
-* [HTML5 Vibration API](http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
-* [HTML5 Battery Status API](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
+* [HTML5 Vibration API](https://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
+* [HTML5 Battery Status API](https://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
 * [Privacy analysis of the HTML5 Battery Status API](http://eprint.iacr.org/2015/616.pdf)
-* [HTML5 Network Information API](http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598)
+* [HTML5 Network Information API](https://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598)
 * [Sencha Touch tutorials](http://docs.sencha.com)
 
 ##Communications and interoperability
@@ -291,7 +292,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Web Worker Basics](http://www.html5rocks.com/en/tutorials/workers/basics/)
 * [How fast are web workers?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/)
 * [Web Workers in MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
-* [Getting started with Web Workers](http://code.tutsplus.com/tutorials/getting-started-with-web-workers--net-27667)
+* [Getting started with Web Workers](https://code.tutsplus.com/tutorials/getting-started-with-web-workers--net-27667)
 
 ##WebGL
 
