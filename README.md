@@ -199,9 +199,13 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ###Web Components
 
-* [Defininf custom HTML elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
-* [HTML imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
+* [Why web components are so important](https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a)
+* [Custom elements v1: reusable web components](https://developers.google.com/web/fundamentals/primers/customelements/)
 * [Polymer project](https://github.com/polymer)
+* [A Quick Introduction To Polymer](http://webcomponents.org/articles/a-quick-polymer-introduction/)
+* [Building web components using Polymer and ES6 classes](https://www.polymer-project.org/1.0/blog/es6)
+* [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components)
+* [HTML imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
 * [Building Webapps with Yeoman and Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
 
 ##Progressive web apps
