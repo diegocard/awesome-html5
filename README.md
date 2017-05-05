@@ -88,7 +88,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Forms
 
-* [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/HTML5_updates)
+* [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/HTML5_updates)
 
 ### Details
 
@@ -105,7 +105,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### HTML Imports
 
-* [Introduction to HTML imports](https://webcomponents.org/articles/introduction-to-html-imports/)
+* [Introduction to HTML imports](https://www.webcomponents.org/community/articles/introduction-to-html-imports)
 
 ## APIs
 
@@ -200,7 +200,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Custom elements v1: reusable web components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
 * [Polymer project](https://github.com/polymer)
-* [A Quick Introduction To Polymer](https://webcomponents.org/articles/a-quick-polymer-introduction/)
+* [A Quick Introduction To Polymer](https://www.webcomponents.org/community/articles/a-quick-polymer-introduction)
 * [Building web components using Polymer and ES6 classes](https://www.polymer-project.org/blog/es6)
 * [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
 * [HTML imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
@@ -309,7 +309,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Dive into HTML5](http://diveintohtml5.info/)
 * [HTML5: Up and Running](https://www.amazon.com/HTML5-Running-Dive-Future-Development/dp/0596806027)
 * [Using the HTML5 Filesystem API](http://shop.oreilly.com/product/0636920021360.do)
-* [HTML5 Game Development Insights](http://www.apress.com/us/book/978143026697)
+* [HTML5 Game Development Insights](http://www.apress.com/us/book/9781430266976)
 
 ## Game development
 
@@ -338,7 +338,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Websites
 
-* [HTML official reference](http://docs.webplatform.org/html)(allows collaborative modification of content like wiki)
+* [HTML official reference](https://www.webplatform.org/docs/Main_Page/index.html)(allows collaborative modification of content like wiki)
 * [HTML5 Rocks](http://www.html5rocks.com/) (news, tutorials and updates)
 * [HTML5 Hub](https://software.intel.com/en-us/html5/hub/highlights) (developer community including articles, discussions and open projects)
 * [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)
