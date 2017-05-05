@@ -58,13 +58,12 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [THML 5.2 Editor's Draft](http://w3c.github.io/html/)
 * [The extensible web manifesto](https://extensiblewebmanifesto.org/)
 * [Differences bewtween HTML5 and HTML4 from W3C](http://www.w3.org/TR/html5-diff/)
-* [DOCTYPES and markup styles from WPF](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)
 
 ## Elements
 
 ### Canvas
 
-* [Brief description from W3 Schools](http://www.w3schools.com/tags/tag_canvas.asp)
+* [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_canvas.asp)
 * [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 * [Various Tutorials](http://www.html5canvastutorials.com/)
 * [Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
@@ -76,20 +75,20 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ### Media Elements
 
 * Audio and Video
-  - [audio tag from W3Schools](http://www.w3schools.com/tags/tag_audio.asp)
-  - [video tag from W3 Schools](http://www.w3schools.com/tags/tag_video.asp)
-  - [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
+  - [audio tag from W3Schools](https://www.w3schools.com/tags/tag_audio.asp)
+  - [video tag from W3 Schools](https://www.w3schools.com/tags/tag_video.asp)
+  - [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
   - [Capturing audio and video in HTML5](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
 * embed tag
-  - [Brief description from W3 Schools](http://www.w3schools.com/tags/tag_embed.asp)
+  - [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_embed.asp)
 * source tag
-  - [Brief description from W3 Schools](http://www.w3schools.com/tags/tag_source.asp)
+  - [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_source.asp)
 * track tag
-  - [Brief description from W3 Schools](http://www.w3schools.com/tags/tag_track.asp)
+  - [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_track.asp)
 
 ### Forms
 
-* [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
+* [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/HTML5_updates)
 
 ### Details
 
@@ -106,7 +105,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### HTML Imports
 
-* [Introduction to HTML imports](http://webcomponents.org/articles/introduction-to-html-imports/)
+* [Introduction to HTML imports](https://webcomponents.org/articles/introduction-to-html-imports/)
 
 ## APIs
 
@@ -172,7 +171,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Semantics
 
-* [Semantic elements from W3Schools](http://www.w3schools.com/html/html5_semantic_elements.asp)
+* [Semantic elements from W3Schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Sections and Outlines of an HTML5 from MDN Document](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines)
 * [HTML5 Semantics from Smashing Magazine](https://www.smashingmagazine.com/2011/11/html5-semantics/)
 * [Lesser known semantics element from W3C & Opera](https://www.w3.org/wiki/Lesser_-_known_semantic_elements)
@@ -190,8 +189,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Shadow DOM
 
-* [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/primers/shadowdom/)
-* [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
+* [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom)
+* [What's New in Shadow DOM v1 (by examples)](https://hayato.io/2016/shadowdomv1/)
 
 ### Data Binding
 
@@ -199,10 +198,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Web Components
 
-* [Custom elements v1: reusable web components](https://developers.google.com/web/fundamentals/primers/customelements/)
+* [Custom elements v1: reusable web components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
 * [Polymer project](https://github.com/polymer)
-* [A Quick Introduction To Polymer](http://webcomponents.org/articles/a-quick-polymer-introduction/)
-* [Building web components using Polymer and ES6 classes](https://www.polymer-project.org/1.0/blog/es6)
+* [A Quick Introduction To Polymer](https://webcomponents.org/articles/a-quick-polymer-introduction/)
+* [Building web components using Polymer and ES6 classes](https://www.polymer-project.org/blog/es6)
 * [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
 * [HTML imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
 * [Building Webapps with Yeoman and Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
@@ -215,11 +214,11 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [The Service Worker Cookbook](https://serviceworke.rs/)
 * [Offline content with service workers](https://madebymike.com.au/writing/service-workers/)
-* [Great article on Service Workers](https://developers.google.com/web/fundamentals/primers/service-worker/)
+* [Great article on Service Workers](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
 * [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
 * [Service workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
 * [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
-* [Service Workers from W3](http://www.w3.org/TR/service-workers/)
+* [Service Workers from W3](http://www.w3.org/TR/service-workers-1/)
 * [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 
 ### Offline caching
@@ -247,7 +246,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Performance
 
-* [Accelerated Mobile Pages (AMP)](https://www.ampproject.org/docs/get_started/about-amp.html)
+* [Accelerated Mobile Pages (AMP)](https://www.ampproject.org/learn/overview/)
 * [Google developers best practices](https://developers.google.com/speed/docs/insights/rules)
 * [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/)
 * [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021/)
@@ -308,9 +307,9 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ## Books
 
 * [Dive into HTML5](http://diveintohtml5.info/)
-* [HTML5: Up and Running](https://www.amazon.com/HTML5-Up-Running-Mark-Pilgrim/dp/0596806027)
+* [HTML5: Up and Running](https://www.amazon.com/HTML5-Running-Dive-Future-Development/dp/0596806027)
 * [Using the HTML5 Filesystem API](http://shop.oreilly.com/product/0636920021360.do)
-* [HTML5 Game Development Insights](http://www.apress.com/9781430266976)
+* [HTML5 Game Development Insights](http://www.apress.com/us/book/978143026697)
 
 ## Game development
 
@@ -339,19 +338,17 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Websites
 
-* [HTML official reference](http://docs.webplatform.org/wiki/html)(allows collaborative modification of content like wiki)
+* [HTML official reference](http://docs.webplatform.org/html)(allows collaborative modification of content like wiki)
 * [HTML5 Rocks](http://www.html5rocks.com/) (news, tutorials and updates)
 * [HTML5 Hub](https://software.intel.com/en-us/html5/hub/highlights) (developer community including articles, discussions and open projects)
 * [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)
-* [HTML5 Doctor](https://html5doctor.com/) (tutorials and articles)
-* [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+* [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
 * [HTML5 Please](http://html5please.com/) (Know when HTML5 feature are ready to use)
 
 ### Weekly news
 
-* [HTML5 Weekly](http://html5weekly.com/)
-* [Open Web Platform Daily Digest](https://webplatformdaily.org/)
+* [HTML5 Weekly](http://frontendfocus.co/)
 * [Mozilla Hacks Weekly Articles](https://hacks.mozilla.org/category/mozilla-hacks-weekly/)
 * [Responsive Design Newsletter](http://responsivedesignweekly.com/)
 
