@@ -71,6 +71,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ### Sectioning
 
 * [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
+* <details><summary>The details and summary elements</summary> `open` attribute shows if it is open</details>
 
 ### Media Elements
 
