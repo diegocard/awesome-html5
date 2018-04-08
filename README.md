@@ -345,6 +345,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
 * [HTML5 Please](http://html5please.com/) (Know when HTML5 feature are ready to use)
+* [Programming Community Curated Resources for learning HTML5](https://hackr.io/tutorials/learn-html-5)
 
 ### Weekly news
 
