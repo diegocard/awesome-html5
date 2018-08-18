@@ -88,7 +88,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Forms
 
-* [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/)
+* [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
 
 ### Details
 
@@ -189,7 +189,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Shadow DOM
 
-* [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/primers/shadowdom)
+* [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
 * [What's New in Shadow DOM v1 (by examples)](https://hayato.io/2016/shadowdomv1/)
 
 ### Data Binding
@@ -242,13 +242,13 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 * [Introduction to IndexedDB](https://www.codemag.com/Article/1411041)
 * [Real-World Off-Line Data Storage](https://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063)
-* [Local storage tutorial](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/Overlay_Extensions/XUL_School/Local_Storage)
+* [Local storage tutorial](https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Overlay_Extensions/XUL_School/Local_Storage)
 
 ## Performance
 
 * [Accelerated Mobile Pages (AMP)](https://www.ampproject.org/learn/overview/)
 * [Google developers best practices](https://developers.google.com/speed/docs/insights/rules)
-* [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
+* [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 * [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021/)
 * [Prefetching and prerendeding](https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d)
 * [Image compression](http://www.html5rocks.com/en/tutorials/speed/img-compression/)
