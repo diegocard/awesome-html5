@@ -275,7 +275,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Web Sockets
 
-* [Using WebWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 * [Introducing Websockets](http://www.html5rocks.com/en/tutorials/websockets/basics/)
 
 ### WebRTC
