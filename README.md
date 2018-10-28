@@ -369,6 +369,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [lists](https://github.com/jnv/lists)
+* [Community Curated Resources](https://hackr.io/tutorials/learn-html-5)
 
 ## Contributing
 
