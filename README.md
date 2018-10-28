@@ -55,9 +55,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Articles and standards
 
-* [THML 5.2 Editor's Draft](http://w3c.github.io/html/)
+* [HTML 5.3](https://w3c.github.io/html/) - Current HTML5 spec
+* [https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/](Progressive enhancement)
 * [The extensible web manifesto](https://extensiblewebmanifesto.org/)
-* [Differences between HTML5 and HTML4 from W3C](http://www.w3.org/TR/html5-diff/)
+* [Differences between HTML5 and HTML4 from W3C](https://www.w3.org/TR/html5-diff/)
 
 ## Elements
 
@@ -66,11 +67,11 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_canvas.asp)
 * [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 * [Various Tutorials](https://www.html5canvastutorials.com/)
-* [Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
+* [Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
 
 ### Sectioning
 
-* [How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
+* [How to Use The HTML5 Sectioning Elements](https://blog.teamtreehouse.com/use-html5-sectioning-elements)
 
 ### Media Elements
 
@@ -92,7 +93,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Details
 
-* [How to Use the Details and Summary Elements](http://blog.teamtreehouse.com/use-details-summary-elements)
+* [How to Use the Details and Summary Elements](https://blog.teamtreehouse.com/use-details-summary-elements)
 * [Details element polyfill](https://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/)
 
 ### Time
@@ -260,7 +261,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Installable Web Apps with the Web App Manifest in Chrome for Android
 ](https://developers.google.com/web/fundamentals/web-app-manifest/)
 * [Field guide to web applications](http://www.html5rocks.com/webappfieldguide/toc/index/)
-* [Tutorial: developing a PhoneGap application](http://coenraets.org/blog/phonegap-tutorial/)
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
 * [PhoneGap from Scratch](https://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
 * [Best practices for mobile web apps](http://www.html5rocks.com/en/tutorials/speed/quick/)
@@ -306,7 +306,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Books
 
-* [Dive into HTML5](http://diveintohtml5.info/)
 * [HTML5: Up and Running](https://www.amazon.com/HTML5-Running-Dive-Future-Development/dp/0596806027)
 * [Using the HTML5 Filesystem API](http://shop.oreilly.com/product/0636920021360.do)
 * [HTML5 Game Development Insights](https://www.apress.com/us/book/9781430266976)
@@ -362,7 +361,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [@html5doctor](https://twitter.com/html5doctor)
 * [@GameDevHTML5](https://twitter.com/GameDevHTML5)
 * [@mozhacks](https://twitter.com/mozhacks)
-* [@mozappsdev](https://twitter.com/mozappsdev)
 * [@googlechrome](https://twitter.com/googlechrome)
 
 ## Other awesome lists
