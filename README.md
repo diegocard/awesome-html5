@@ -90,7 +90,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Experimenting with the Web Speech API](https://www.sitepoint.com/experimenting-web-speech-api/)
 * [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
 
-## Virtual Reality
+### Virtual Reality
 
 * [Firefox Reality now available](https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/)
 
@@ -248,7 +248,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Instant-loading Offline-first (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=qDJAz3IIq18)
 * [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
 * [A Beginner's Guide to Using the Application Cache](https://www.html5rocks.com/en/tutorials/appcache/beginner/)
-* [The web app manifest (Google's Web fundamentals)](https://developers.google.com/web/fundamentals/web-app-manifest/)
 
 ### Push Notifications
 
@@ -277,8 +276,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Mobile
 
-* [Installable Web Apps with the Web App Manifest in Chrome for Android
-](https://developers.google.com/web/fundamentals/web-app-manifest/)
+* [The Web App Manifest (Google's fundamentals)](https://developers.google.com/web/fundamentals/web-app-manifest/)
 * [Field guide to web applications](https://www.html5rocks.com/webappfieldguide/toc/index/)
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
 * [PhoneGap from Scratch](https://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
