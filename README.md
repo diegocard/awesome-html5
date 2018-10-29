@@ -1,4 +1,4 @@
-Awesome HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
+Awesome HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
 =============
 
 A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python)
@@ -81,7 +81,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [audio tag from W3Schools](https://www.w3schools.com/tags/tag_audio.asp)
   - [video tag from W3 Schools](https://www.w3schools.com/tags/tag_video.asp)
   - [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
-  - [Capturing audio and video in HTML5](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
+  - [Capturing audio and video in HTML5](https://www.html5rocks.com/en/tutorials/getusermedia/intro/)
 * embed tag
   - [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_embed.asp)
 * source tag
@@ -130,7 +130,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Audio
 
-* [Getting started with the Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
+* [Getting started with the Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
 * [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
 * [Making a Guitar Tuner with HTML5](http://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
 * [Audio visualisation with the Web Audio API and React](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react)
@@ -144,13 +144,13 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Media Capture
 
-* [Capturing Audio & Video in HTML5](http://www.html5rocks.com/es/tutorials/getusermedia/intro/)
+* [Capturing Audio & Video in HTML5](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
 * [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
 
 ### File
 
 * [Using files from web applications (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
-* [Reading local files in JavaScript](http://www.html5rocks.com/en/tutorials/file/dndfiles/)
+* [Reading local files in JavaScript](https://www.html5rocks.com/en/tutorials/file/dndfiles/)
 * [File API Draft](https://w3c.github.io/FileAPI/)
 * [File system API](http://www.w3.org/TR/file-system-api/)
 
@@ -203,7 +203,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Data Binding
 
-* [Data-binding Revolutions with Object.observe()](http://www.html5rocks.com/en/tutorials/es7/observe/)
+* [Data-binding Revolutions with Object.observe()](https://www.html5rocks.com/en/tutorials/es7/observe/)
 
 ### Web Components
 
@@ -212,8 +212,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [A Quick Introduction To Polymer](https://www.webcomponents.org/community/articles/a-quick-polymer-introduction)
 * [Building web components using Polymer and ES6 classes](https://www.polymer-project.org/blog/es6)
 * [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
-* [HTML imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
-* [Building Webapps with Yeoman and Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
+* [HTML imports](https://www.html5rocks.com/en/tutorials/webcomponents/imports/)
+* [Building Webapps with Yeoman and Polymer](https://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
 
 ## Progressive web apps
 
@@ -234,7 +234,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Instant-loading Offline-first (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=qDJAz3IIq18)
 * [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
-* [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
+* [A Beginner's Guide to Using the Application Cache](https://www.html5rocks.com/en/tutorials/appcache/beginner/)
 * [Manifest for web application from W3C (working draft)](https://w3c.github.io/manifest/)
 * [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 
@@ -247,7 +247,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Client side storage
 
-* [Client-Side Storage](http://www.html5rocks.com/en/tutorials/offline/storage/)
+* [Client-Side Storage](https://www.html5rocks.com/en/tutorials/offline/storage/)
 * [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 * [Introduction to IndexedDB](https://www.codemag.com/Article/1411041)
 * [Real-World Off-Line Data Storage](https://code.tutsplus.com/tutorials/real-world-off-line-data-storage--net-34063)
@@ -260,18 +260,18 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 * [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021/)
 * [Prefetching and prerendeding](https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d)
-* [Image compression](http://www.html5rocks.com/en/tutorials/speed/img-compression/)
-* [Text compression](http://www.html5rocks.com/en/tutorials/speed/txt-compression/)
+* [Image compression](https://www.html5rocks.com/en/tutorials/speed/img-compression/)
+* [Text compression](https://www.html5rocks.com/en/tutorials/speed/txt-compression/)
 * [Resource timing spec](http://www.w3.org/TR/resource-timing/)
 
 ## Mobile
 
 * [Installable Web Apps with the Web App Manifest in Chrome for Android
 ](https://developers.google.com/web/fundamentals/web-app-manifest/)
-* [Field guide to web applications](http://www.html5rocks.com/webappfieldguide/toc/index/)
+* [Field guide to web applications](https://www.html5rocks.com/webappfieldguide/toc/index/)
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
 * [PhoneGap from Scratch](https://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
-* [Best practices for mobile web apps](http://www.html5rocks.com/en/tutorials/speed/quick/)
+* [Best practices for mobile web apps](https://www.html5rocks.com/en/tutorials/speed/quick/)
 * [Build mobile apps with Kendo UI]https://docs.telerik.com/kendo-ui/controls/hybrid/introduction)
 * [HTML5 Vibration API](https://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
 * [HTML5 Battery Status API](https://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
@@ -283,25 +283,25 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Web Sockets
 
-* [Introducing Websockets](http://www.html5rocks.com/en/tutorials/websockets/basics/)
+* [Introducing Websockets](https://www.html5rocks.com/en/tutorials/websockets/basics/)
 
 ### WebRTC
 
 * [What is WebRTC and how does it work](https://www.innoarchitech.com/what-is-webrtc-and-how-does-it-work/)
 * [WebRTC made simple](https://blog.carbonfive.com/2014/10/16/webrtc-made-simple/)
-* [WebRTC data channels tutorial](http://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
+* [WebRTC data channels tutorial](https://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
 * [WebRTC data channels from MDN](https://developer.mozilla.org/en-US/docs/Games/Techniques/WebRTC_data_channels)
 
 ## Web Workers
 
-* [Web Worker Basics](http://www.html5rocks.com/en/tutorials/workers/basics/)
+* [Web Worker Basics](https://www.html5rocks.com/en/tutorials/workers/basics/)
 * [How fast are web workers?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/)
 * [Web Workers in MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 * [Getting started with Web Workers](https://code.tutsplus.com/tutorials/getting-started-with-web-workers--net-27667)
 
 ## WebGL
 
-* [WebGL Fundamentals](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
+* [WebGL Fundamentals](https://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
 
 ## Virtual Reality
 
@@ -349,7 +349,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ### Websites
 
 * [HTML official reference](https://webplatform.github.io/docs/Main_Page/index.html) (allows collaborative modification of content like wiki)
-* [HTML5 Rocks](http://www.html5rocks.com/) (news, tutorials and updates)
+* [HTML5 Rocks](https://www.html5rocks.com/) (news, tutorials and updates)
 * [HTML5 Hub](https://software.intel.com/en-us/html5/hub/highlights) (developer community including articles, discussions and open projects)
 * [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
