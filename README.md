@@ -236,12 +236,12 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
 * [A Beginner's Guide to Using the Application Cache](https://www.html5rocks.com/en/tutorials/appcache/beginner/)
 * [Manifest for web application from W3C (working draft)](https://w3c.github.io/manifest/)
-* [WebApp Manifest in Chrome for Android](http://updates.html5rocks.com/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
+* [WebApp Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 
 ### Push Notifications
 
 * [Push Notifications On The Web - Google Chrome](http://deanhume.com/push-notifications-on-the-web-google-chrome/)
-* [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
+* [Push Notifications on the Open Web](https://developers.google.com/web/updates/2015/03/push-notificatons-on-the-open-web)
 * [Push API W3C draft](http://w3c.github.io/push-api/)
 * [Notifications API](https://notifications.spec.whatwg.org/)
 
@@ -349,7 +349,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ### Websites
 
 * [HTML official reference](https://webplatform.github.io/docs/Main_Page/index.html) (allows collaborative modification of content like wiki)
-* [HTML5 Rocks](https://www.html5rocks.com/) (news, tutorials and updates)
+* [HTML5 Rocks](https://www.html5rocks.com/en/) (news, tutorials and updates)
 * [HTML5 Hub](https://software.intel.com/en-us/html5/hub/highlights) (developer community including articles, discussions and open projects)
 * [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
