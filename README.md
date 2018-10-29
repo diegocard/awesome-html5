@@ -25,6 +25,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [requestIdleCallback](#requestidlecallback)
   - [requestAnimationFrame](#requestanimationframe)
   - [Web animations](#web-animations)
+  - [Web payments](#web-payments)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
 - [DOM management](#dom-management)
@@ -169,6 +170,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Intro to web animations](http://danielcwilson.com/blog/2015/07/animations-intro/)
 * [When to Use the Web Animations API](http://danielcwilson.com/blog/2016/08/why-waapi/)
+
+### Web payments
+
+* [Web payments API overview](https://developers.google.com/web/fundamentals/payments/)
 
 ## Semantics
 
