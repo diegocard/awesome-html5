@@ -132,6 +132,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Getting started with the Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
 * [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
 * [Making a Guitar Tuner with HTML5](http://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
+* [Audio visualisation with the Web Audio API and React](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react)
 
 ### Cryptography
 
