@@ -5,6 +5,13 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Table of Contents
 - [Articles and standards](#articles-and-standards)
+- [Multimedia capabilities](#multimedia-capabilities)
+  - [Audio](#audio)
+  - [Media capture](#media-capture)
+  - [Speech synthesis](#speech-synthesis)
+  - [Voice recognition](#voice-recognition)
+  - [Virtual Reality (VR)](#virtual-reality)
+  - [Web animations](#web-animations)
 - [Elements](#elements)
   - [Canvas](#canvas)
   - [Sectioning](#sectioning)
@@ -13,18 +20,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Time](#time)
   - [WebVTT](#webtt)
   - [HTML Imports](#html-imports)
-- [APIs](#apis)
+- [Development APIs](#development-apis)
   - [Permissions](#permissions)
-  - [Speech synthesis / voice recognition](#speech-synthesis)
   - [Geolocation](#geolocation)
-  - [Audio](#audio)
   - [Cryptography](#cryptography)
-  - [Media capture](#media-capture)
   - [File](#file)
   - [Frame timing](#frame-timing)
   - [requestIdleCallback](#requestidlecallback)
   - [requestAnimationFrame](#requestanimationframe)
-  - [Web animations](#web-animations)
   - [Web payments](#web-payments)
 - [Semantics](#semantics)
 - [Accessibility](#accessibility)
@@ -44,7 +47,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [WebRTC](#webrtc)
 - [Web Workers](#web-workers)
 - [WebGL](#webgl)
-- [Virtual Reality (VR)](#virtual-reality)
 - [Browser compatibility](#browser-compatibility)
 - [Books](#books)
 - [Game development](#game-development)
@@ -61,6 +63,41 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/](Progressive enhancement)
 * [The extensible web manifesto](https://extensiblewebmanifesto.org/)
 * [Differences between HTML5 and HTML4 from W3C](https://www.w3.org/TR/html5-diff/)
+
+## Multimedia capabilities
+
+### Audio
+
+* [Getting started with the Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
+* [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
+* [Making a Guitar Tuner with HTML5](http://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
+* [Audio visualisation with the Web Audio API and React](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react)
+
+### Media Capture
+
+* [Capturing Audio & Video in HTML5](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
+* [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
+
+### Speech Synthesis
+
+* [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/)
+* [Another useful intro](https://shapeshed.com/html5-speech-recognition-api/)
+
+### Voice Recognition
+
+* [Web speech API demo](https://www.google.com/intl/en/chrome/demos/speech.html)
+* [Using the Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
+* [Experimenting with the Web Speech API](https://www.sitepoint.com/experimenting-web-speech-api/)
+* [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
+
+## Virtual Reality
+
+* [Firefox Reality now available](https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/)
+
+### Web animations
+
+* [Intro to web animations](http://danielcwilson.com/blog/2015/07/animations-intro/)
+* [When to Use the Web Animations API](http://danielcwilson.com/blog/2016/08/why-waapi/)
 
 ## Elements
 
@@ -110,30 +147,16 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Introduction to HTML imports](https://www.webcomponents.org/community/articles/introduction-to-html-imports)
 
-## APIs
+## Development APIs
 
 ### Permissions
 
 * [Permissions API for the Web by Google](https://developers.google.com/web/updates/2015/04/permissions-api-for-the-web)
 
-### Speech Synthesis
-
-* [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/)
-* [Another useful intro](https://shapeshed.com/html5-speech-recognition-api/)
-* [Experimenting with the Web Speech API](https://www.sitepoint.com/experimenting-web-speech-api/)
-* [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
-
 ### Geolocation
 
 * [Using Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 * [HTML5 Apps: Positioning with Geolocation](https://code.tutsplus.com/tutorials/html5-apps-positioning-with-geolocation--mobile-456)
-
-### Audio
-
-* [Getting started with the Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
-* [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
-* [Making a Guitar Tuner with HTML5](http://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
-* [Audio visualisation with the Web Audio API and React](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react)
 
 ### Cryptography
 
@@ -141,11 +164,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Table of web cryptography support](http://diafygi.github.io/webcrypto-examples/)
 * [Window.crypto](https://developer.mozilla.org/en-US/docs/Web/API/Window/crypto)
 * [Cryptography next steps from W3C](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/report.html)
-
-### Media Capture
-
-* [Capturing Audio & Video in HTML5](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
-* [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
 
 ### File
 
@@ -167,11 +185,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Using requestAnimationFrame (CSS Tricks)](https://css-tricks.com/using-requestanimationframe/)
 * [Great article by Paul Irish](https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4#.9gev5fdub)
-
-### Web animations
-
-* [Intro to web animations](http://danielcwilson.com/blog/2015/07/animations-intro/)
-* [When to Use the Web Animations API](http://danielcwilson.com/blog/2016/08/why-waapi/)
 
 ### Web payments
 
@@ -300,10 +313,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ## WebGL
 
 * [WebGL Fundamentals](https://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
-
-## Virtual Reality
-
-* [Firefox Reality now available](https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/)
 
 ## Browser compatibility
 
