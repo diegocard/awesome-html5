@@ -44,6 +44,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [WebRTC](#webrtc)
 - [Web Workers](#web-workers)
 - [WebGL](#webgl)
+- [Virtual Reality (VR)](#virtual-reality)
 - [Browser compatibility](#browser-compatibility)
 - [Books](#books)
 - [Game development](#game-development)
@@ -300,6 +301,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ## WebGL
 
 * [WebGL Fundamentals](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
+
+## Virtual Reality
+
+* [Firefox Reality now available](https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/)
 
 ## Browser compatibility
 
