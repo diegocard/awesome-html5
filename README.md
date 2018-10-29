@@ -235,15 +235,13 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Instant-loading Offline-first (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=qDJAz3IIq18)
 * [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
 * [A Beginner's Guide to Using the Application Cache](https://www.html5rocks.com/en/tutorials/appcache/beginner/)
-* [Manifest for web application from W3C (working draft)](https://w3c.github.io/manifest/)
-* [WebApp Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
+* [The web app manifest (Google's Web fundamentals)](https://developers.google.com/web/fundamentals/web-app-manifest/)
 
 ### Push Notifications
 
-* [Push Notifications On The Web - Google Chrome](http://deanhume.com/push-notifications-on-the-web-google-chrome/)
-* [Push Notifications on the Open Web](https://developers.google.com/web/updates/2015/03/push-notificatons-on-the-open-web)
+* [Web Push Notifications (Google's Web fundamentals)](https://developers.google.com/web/fundamentals/push-notifications/)
 * [Push API W3C draft](http://w3c.github.io/push-api/)
-* [Notifications API](https://notifications.spec.whatwg.org/)
+* [Notifications API spec](https://notifications.spec.whatwg.org/)
 
 ## Client side storage
 
