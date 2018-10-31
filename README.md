@@ -199,13 +199,18 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Accessibility
 
+* [Excellent intro to accesibiliy from Google's fundamentals](https://developers.google.com/web/fundamentals/accessibility/)
+* [Accessibility checklist for web developers](https://webaim.org/standards/wcag/checklist)
 * [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-* [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
-* [Aural UI of the Elements of HTML](https://thepaciellogroup.github.io/AT-browser-tests/ )
-* [Web Accessibility Evaluation Tools List](http://www.w3.org/WAI/ER/tools/)
+* [Great Accessibility Style Guide](http://a11y-style-guide.com/style-guide/)
+* [Designing for Cognitive Differences](https://alistapart.com/article/designing-for-cognitive-differences)
+* [Guide on how HTML elements are supported by screen readers](https://thepaciellogroup.github.io/AT-browser-tests/)
+* [Top 25 Accessibility Testing Tools for Website](https://dynomapper.com/blog/27-accessibility-testing/246-top-25-awesome-accessibility-testing-tools-for-websites)
+* [Web Accessibility Evaluation Tools List from W3](http://www.w3.org/WAI/ER/tools/)
+* [Pa11y - automated accessibility testing](http://pa11y.org/)
 * [Aria in HTML](https://developer.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/)
 * [Accessible and Responsive HTML5 Video Player](https://2017.ind.ie/blog/accessible-video-player/)
-* [Pa11y - automated accessibility testing](http://pa11y.org/)
+* [Colorblindly on the Chrome Web Store](https://frontendfoc.us/link/54603/90c36cf494)
 
 ## DOM Management
 
