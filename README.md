@@ -210,7 +210,6 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Pa11y - automated accessibility testing](http://pa11y.org/)
 * [Aria in HTML](https://developer.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/)
 * [Accessible and Responsive HTML5 Video Player](https://2017.ind.ie/blog/accessible-video-player/)
-* [Colorblindly on the Chrome Web Store](https://frontendfoc.us/link/54603/90c36cf494)
 
 ## DOM Management
 
