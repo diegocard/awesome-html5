@@ -8,6 +8,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 - [Multimedia capabilities](#multimedia-capabilities)
   - [Audio](#audio)
   - [Media capture](#media-capture)
+  - [Picture in Picture](#picture-in-picture)
   - [Speech synthesis](#speech-synthesis)
   - [Voice recognition](#voice-recognition)
   - [Virtual Reality (VR)](#virtual-reality)
@@ -77,6 +78,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Capturing Audio & Video in HTML5](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
 * [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
+
+### Picture in Picture
+
+* [Chrome's new Picture in Picture API](https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture)
 
 ### Speech Synthesis
 
