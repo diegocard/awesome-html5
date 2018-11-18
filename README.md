@@ -244,17 +244,17 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Service Workers
 
-* [The Service Worker Cookbook](https://serviceworke.rs/)
+* [Service Worker fundamentals](https://developers.google.com/web/fundamentals/primers/service-workers/)
+* [The Service Worker Cookbook](https://github.com/mozilla/serviceworker-cookbook)
 * [Offline content with service workers](https://www.madebymike.com.au/writing/service-workers/)
-* [Great article on Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/)
 * [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
 * [Service workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
 * [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
-* [Service Workers from W3](http://www.w3.org/TR/service-workers-1/)
 * [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 
 ### Offline caching
 
+* [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
 * [Instant-loading Offline-first (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=qDJAz3IIq18)
 * [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
 * [A Beginner's Guide to Using the Application Cache](https://www.html5rocks.com/en/tutorials/appcache/beginner/)
