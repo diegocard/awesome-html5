@@ -207,7 +207,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Excellent intro to accesibiliy from Google's fundamentals](https://developers.google.com/web/fundamentals/accessibility/)
 * [Accessibility checklist for web developers](https://webaim.org/standards/wcag/checklist)
 * [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-* [Great Accessibility Style Guide](http://a11y-style-guide.com/style-guide/)
+* [Great Accessibility Style Guide](https://a11y-style-guide.com/style-guide/)
 * [Designing for Cognitive Differences](https://alistapart.com/article/designing-for-cognitive-differences)
 * [Guide on how HTML elements are supported by screen readers](https://thepaciellogroup.github.io/AT-browser-tests/)
 * [Top 25 Accessibility Testing Tools for Website](https://dynomapper.com/blog/27-accessibility-testing/246-top-25-awesome-accessibility-testing-tools-for-websites)
@@ -230,6 +230,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ### Web Components
 
 * [Custom elements v1: reusable web components](https://developers.google.com/web/fundamentals/web-components/customelements)
+* [The power of web components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 * [Polymer project](https://github.com/polymer)
 * [A Quick Introduction To Polymer](https://www.webcomponents.org/community/articles/a-quick-polymer-introduction)
 * [Building web components using Polymer and ES6 classes](https://www.polymer-project.org/blog/es6)
