@@ -246,7 +246,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Service Worker fundamentals](https://developers.google.com/web/fundamentals/primers/service-workers/)
 * [ServiceWorkies - Learn SWs playing a game](https://serviceworkies.com/)
-* [The Service Worker Cookbook](https://github.com/mozilla/serviceworker-cookbook)
+* [The Service Worker Cookbook](https://serviceworke.rs/)
 * [Offline content with service workers](https://www.madebymike.com.au/writing/service-workers/)
 * [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
 * [Service workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
