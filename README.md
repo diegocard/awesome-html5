@@ -15,6 +15,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Web animations](#web-animations)
 - [Elements](#elements)
   - [Canvas](#canvas)
+  - [Head](#head)
   - [Sectioning](#sectioning)
   - [Media Elements](#media-elements)
   - [Forms](#forms)
@@ -112,6 +113,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 * [Various Tutorials](https://www.html5canvastutorials.com/)
 * [Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
+
+### Head
+
+* [A list of things that go in your pages' HEAD element](https://gethead.info/)
 
 ### Sectioning
 
