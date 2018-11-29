@@ -240,6 +240,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Progressive web apps
 
+* [Intro to PWAs](https://developers.google.com/web/progressive-web-apps/)
+* [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
 * [The Business Case for Progressive Web Apps](https://cloudfour.com/thinks/the-business-case-for-progressive-web-apps/)
 
 ### Service Workers
