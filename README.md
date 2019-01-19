@@ -340,6 +340,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Books
 
+* [Dive Into HTML5](http://diveinto.html5doctor.com/)
 * [HTML5: Up and Running](https://www.amazon.com/HTML5-Running-Dive-Future-Development/dp/0596806027)
 * [Using the HTML5 Filesystem API](http://shop.oreilly.com/product/0636920021360.do)
 * [HTML5 Game Development Insights](https://www.apress.com/us/book/9781430266976)
