@@ -209,7 +209,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Accessibility
 
-* [Excellent intro to accesibiliy from Google's fundamentals](https://developers.google.com/web/fundamentals/accessibility/)
+* [Excellent intro to accessibility from Google's fundamentals](https://developers.google.com/web/fundamentals/accessibility/)
 * [Accessibility checklist for web developers](https://webaim.org/standards/wcag/checklist)
 * [ARIA from MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 * [Great Accessibility Style Guide](https://a11y-style-guide.com/style-guide/)
