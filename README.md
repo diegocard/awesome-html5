@@ -72,7 +72,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [Getting started with the Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
 * [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
-* [Making a Guitar Tuner with HTML5](http://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
+* [Making a Guitar Tuner with HTML5](https://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
 * [Audio visualisation with the Web Audio API and React](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react)
 
 ### Media Capture
@@ -336,7 +336,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Can I use...](https://caniuse.com/)
 * [W3C quality tools](http://w3c.github.io/developers/tools/)
 * [HTML5 test](http://beta.html5test.com/)
-* [HTML5 demos](https://html5demos.com/)
+* [HTML5 demos](https://bestvpn.org/html5demos/)
 
 ## Books
 
@@ -374,11 +374,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 * [HTML official reference](https://webplatform.github.io/docs/Main_Page/index.html) (allows collaborative modification of content like wiki)
 * [HTML5 Rocks](https://www.html5rocks.com/en/) (news, tutorials and updates)
-* [HTML5 Hub](https://software.intel.com/en-us/html5/hub/highlights) (developer community including articles, discussions and open projects)
 * [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
-* [HTML5 Please](http://html5please.com/) (Know when HTML5 feature are ready to use)
+* [HTML5 Please](https://html5please.com/) (Know when HTML5 feature are ready to use)
 * [Keen HTML](https://keenhtml.com) (Free interactive lessons to learn HTML)
 
 ### Weekly news
