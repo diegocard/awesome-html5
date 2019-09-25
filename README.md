@@ -299,7 +299,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
 * [PhoneGap from Scratch](https://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
 * [Best practices for mobile web apps](https://www.html5rocks.com/en/tutorials/speed/quick/)
-* [Build mobile apps with Kendo UI]https://docs.telerik.com/kendo-ui/controls/hybrid/introduction)
+* [Build mobile apps with Kendo UI](https://docs.telerik.com/kendo-ui/controls/hybrid/introduction)
 * [HTML5 Vibration API](https://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
 * [HTML5 Battery Status API](https://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
 * [Privacy analysis of the HTML5 Battery Status API](https://eprint.iacr.org/2015/616.pdf)
