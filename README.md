@@ -52,6 +52,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 - [Browser compatibility](#browser-compatibility)
 - [Books](#books)
 - [Game development](#game-development)
+- [Bootcamp](#bootcamp)
 - [Videos and Keynotes](#videos-and-keynotes)
 - [Websites and resources](#websites-and-resources)
   - [Websites](#websites)
@@ -361,6 +362,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS)
   - [Stage.js](https://github.com/shakiba/stage.js)
   - [cocos2d](https://github.com/cocos2d/cocos2d-html5)
+
+## Bootcamp
+*[Learn coding for free online](https://www.freecodecamp.org/)
+*[Free online cources](https://www.khanacademy.org/)
 
 ## Videos and Keynotes
 
