@@ -283,7 +283,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Performance
 
-* [Accelerated Mobile Pages (AMP)](https://www.ampproject.org/learn/overview/)
+* [Accelerated Mobile Pages(AMP)](https://www.ampproject.org/learn/overview/)
 * [Google developers best practices](https://developers.google.com/speed/docs/insights/rules)
 * [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 * [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021/)
@@ -340,8 +340,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Books
 
-* [Dive Into HTML5](http://diveinto.html5doctor.com/)
-* [HTML5: Up and Running](https://www.amazon.com/HTML5-Running-Dive-Future-Development/dp/0596806027)
+* [DiveInto HTML5](http://diveinto.html5doctor.com/)
+* [HTML5:Up and Running](https://www.amazon.com/HTML5-Running-Dive-Future-Development/dp/0596806027)
 * [Using the HTML5 Filesystem API](http://shop.oreilly.com/product/0636920021360.do)
 * [HTML5 Game Development Insights](https://www.apress.com/us/book/9781430266976)
 * [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground)
@@ -405,4 +405,4 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Contributing
 
-Your contributions are always welcome!
+Your contributions are always welcome for making our community more better!
