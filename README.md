@@ -12,7 +12,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Speech synthesis](#speech-synthesis)
   - [Voice recognition](#voice-recognition)
   - [Virtual Reality (VR)](#virtual-reality)
-  - [Web animations](#web-animations)
+  - [Web animation](#web-animation)
 - [Elements](#elements)
   - [Canvas](#canvas)
   - [Head](#head)
