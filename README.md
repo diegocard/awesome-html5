@@ -315,6 +315,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Introducing Websockets](https://www.html5rocks.com/en/tutorials/websockets/basics/)
 * [About HTML5 WebSocket](https://www.websocket.org/aboutwebsocket.html)
 * [HTML5 Web Sockets API](http://www.tutorialspark.com/html5/HTML5_WebSockets.php)
+
 ### WebRTC
 
 * [What is WebRTC and how does it work](https://www.innoarchitech.com/what-is-webrtc-and-how-does-it-work/)
