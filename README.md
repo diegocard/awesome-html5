@@ -139,6 +139,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ### Forms
 
 * [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
+* [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
 
 ### Details
 
