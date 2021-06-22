@@ -117,7 +117,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Head
 
-* [A list of things that go in your pages' HEAD element](https://gethead.info/)
+* [A list of things that go in your pages' HEAD element](https://htmlhead.dev/)
 
 ### Sectioning
 
