@@ -66,6 +66,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Progressive enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
 * [The extensible web manifesto](https://extensiblewebmanifesto.org/)
 * [Differences between HTML5 and HTML4 from W3C](https://www.w3.org/TR/html5-diff/)
+* [Diffrence between HTML and HTML5](https://www.scaler.com/topics/difference-between-html-and-html5/)
 
 ## Multimedia capabilities
 
