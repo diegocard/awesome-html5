@@ -389,6 +389,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5 Please](https://html5please.com/) (Know when HTML5 feature are ready to use)
 * [Keen HTML](https://keenhtml.com) (Free interactive lessons to learn HTML)
 * [A Complete Guide to the Table Element ](https://css-tricks.com/complete-guide-table-element/) 
+* [Free HTML 5 courses](https://skillcombo.com/topic/html5/free/)
 
 ### Weekly news
 
