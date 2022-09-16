@@ -376,6 +376,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Polymer: declarative, encapsulated, reusable components](https://www.youtube.com/watch?v=DH1vTVkqCDQ)
 * [Making the mobile web fast, feature-rich, and beautiful](https://www.youtube.com/watch?v=EXjPsvwIDwU)
 * [Dart: HTML of the Future, Today!](https://www.youtube.com/watch?v=euCNWhs7ivQ)
+* [List of HTML5 online courses](https://skillcombo.com/topic/html5/
 
 ## Websites and resources
 
