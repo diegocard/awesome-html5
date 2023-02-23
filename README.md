@@ -349,6 +349,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Using the HTML5 Filesystem API](http://shop.oreilly.com/product/0636920021360.do)
 * [HTML5 Game Development Insights](https://www.apress.com/us/book/9781430266976)
 * [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground)
+* [Web Design Playground, Second Edition](https://www.manning.com/books/web-design-playground-second-edition)
 
 ## Game development
 
