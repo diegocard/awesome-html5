@@ -222,6 +222,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Pa11y - automated accessibility testing](http://pa11y.org/)
 * [Aria in HTML](https://developer.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/)
 * [Accessible and Responsive HTML5 Video Player](https://2017.ind.ie/blog/accessible-video-player/)
+* [axe-core - Accessibility engine for automated testing](https://github.com/dequelabs/axe-core)
+* [RatedWithAI - AI-powered WCAG 2.2 accessibility scanner](https://ratedwithai.com/)
 
 ## DOM Management
 
