@@ -389,6 +389,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5 Please](https://html5please.com/) (Know when HTML5 feature are ready to use)
 * [Keen HTML](https://keenhtml.com) (Free interactive lessons to learn HTML)
 * [A Complete Guide to the Table Element ](https://css-tricks.com/complete-guide-table-element/) 
+* [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) (single-page HTML5 application for personal genome visualization — terminal-style dashboard with inline CSS/JS and interactive navigation across 17 health and genetics categories)
 
 ### Weekly news
 
