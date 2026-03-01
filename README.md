@@ -220,6 +220,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Top 25 Accessibility Testing Tools for Website](https://dynomapper.com/blog/27-accessibility-testing/246-top-25-awesome-accessibility-testing-tools-for-websites)
 * [Web Accessibility Evaluation Tools List from W3](http://www.w3.org/WAI/ER/tools/)
 * [Pa11y - automated accessibility testing](http://pa11y.org/)
+* [PageGuard - free website accessibility & health scanner](https://pageguard.org) - Checks WCAG compliance, SEO, performance, and best practices with AI-powered recommendations
 * [Aria in HTML](https://developer.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/)
 * [Accessible and Responsive HTML5 Video Player](https://2017.ind.ie/blog/accessible-video-player/)
 
