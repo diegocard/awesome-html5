@@ -389,6 +389,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5 Please](https://html5please.com/) (Know when HTML5 feature are ready to use)
 * [Keen HTML](https://keenhtml.com) (Free interactive lessons to learn HTML)
 * [A Complete Guide to the Table Element ](https://css-tricks.com/complete-guide-table-element/) 
+* [HTML to Markdown Converter](https://justboring.tools/html-to-markdown-converter) (Use the best HTML to markdown converter online to convert rich text to markdown and export HTML to markdown. Easily convert web page to markdown.)
 
 ### Weekly news
 
